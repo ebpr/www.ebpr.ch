@@ -1,0 +1,71 @@
+---
+layout: post
+title: Casestudies
+lang: de
+switch: /cases
+priority: 0.8
+---                                                           
+
+<div id="slider">
+ !/images/casestudies/bm.jpg!
+ !/images/casestudies/bm3.jpg!
+ !/images/casestudies/bmladiesnight.jpg!
+ !/images/casestudies/eb2.jpg!
+ !/images/casestudies/media1.jpg!
+ !/images/casestudies/media3.jpg!
+ !/images/casestudies/online.jpg!
+ !/images/casestudies/roadshow.jpg!
+</div>
+
+
+h1. EBPR berät und unterstützt seit 1989 namhafte Kunden aus den verschiedensten Branchen des Luxussegments und pflegt ein enges Vertrauensverhältnis mit führenden Journalisten, wirtschaftlichen Entscheidungsträgern und gesellschaftlichen Meinungsführern. Die Agentur versteht sich dabei als multidirektionales Bindeglied zwischen Medien, Wirtschaft und Gesellschaft.
+
+
+
+<section>
+h2. Produkt PR
+
+Public Relations als Medienarbeit mit der Zielsetzung der Implementierung eines einzelnen *Produkts* in den relevanten Medien. EBPR steigert durch Produkt PR die *Bekanntheit* eines Produkts bei den jeweiligen Zielgruppen und unterstützt so die Generierung einer *Nachfrage* im Markt. 
+</section>
+
+<section>
+h2. Corporate PR
+
+Public Relations als Corporate PR mit der Zielsetzung, die *öffentliche Wahrnehmung* eines Unternehmens oder einer Marke entsprechend den Richtlinien des Unternehmens auszurichten. EBPR kommuniziert die zentralen *Werte* seiner Kunden und ermöglicht Medienpartnern exklusive Einblicke. 
+</section>
+
+<div class="clear"></div>
+
+<section>
+h2. Charity / CSR PR
+
+Gutes tun und darüber reden. Durch effiziente öffentliche Kommunikation kann gemeinnütziges *Engagement* als Vorbild dienen und verstärkt werden. EBPR kommuniziert über *Akteure, Werte und Botschaften*. 
+</section>
+
+<section>
+h2. Medienevents
+
+Medienevents ermöglichen den *direkten Kontakt* zwischen Unternehmen und Medien. Dieser direkte Austausch ermöglicht die ausführliche Präsentation einer Marke oder eines Produkts einerseits, fachliche Auskünfte und Detailinformationen andererseits. Beispiele sind Produktlancierungen, Roundtables oder Pressekonferenzen. EBPR agiert als *Bindeglied* und Vermittler *zwischen Unternehmen und Medien*. Auf diese Weise können die Interessen beider Seiten berücksichtigt und gewahrt werden. 
+</section>
+
+<section>
+h2. Kundenevents
+
+Vom Eventkonzept, über die Auswahl der Location und starker Partner, bis hin zur detaillierten Planung und Durchführung des Events - *alles aus einer Hand*. EBPR bringt hochkarätige *Marken* in passendem Rahmen mit den richtigen *Zielgruppen* zusammen. 
+</section>
+
+<section>
+h2. B2B Events
+
+B2B Events ermöglichen einen wirkungsstarken und präzisen *Markenauftritt* gegenüber bestehenden und potenziellen Geschäftskunden. EBPR verknüpft seine Kunden mit B2B Zielgruppen und kreiert im Rahmen von Events starke *Networkingplattformen*. 
+</section>
+
+<section>
+h2. Online PR 
+
+Die Zukunft ist online - zumindest fällt den digitalen Medien zunehmend grössere Bedeutung zu. Die *Online Medien* sind dabei nicht nur Träger von sozialer und kommerzieller Kommunikation - auch als Handelsplatz steigt ihre Relevanz.
+</section>
+
+
+
+

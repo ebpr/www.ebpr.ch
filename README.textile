@@ -1,0 +1,12 @@
+h1. "www.ebpr.ch":http://www.ebpr.ch
+
+Eliane Bachenheimer Public Relations, Zürich, Switzerland
+
+Built with: 
+* "Jekyll":https://github.com/mojombo/jekyll
+* "Compass":http://compass-style.org/ + "960gs Compass Plugin":https://github.com/chriseppstein/compass-960-plugin
+* "Compass version of Html5 Boilerplate":https://github.com/sporkd/compass-html5-boilerplate
+* "JQuery Cycle Plugin":http://jquery.malsup.com/cycle/
+
+Launched 1.4.2011, hosted with swisscom
+

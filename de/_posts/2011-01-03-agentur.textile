@@ -1,0 +1,67 @@
+---
+layout: post
+title: Agentur
+lang: de
+switch: /agency
+priority: 0.8
+---
+
+
+<div id="slider">
+ !/images/agentur/elianebachenheimer.jpg!
+ !/images/agentur/katja_grauwiler.jpg!
+ !/images/agentur/gianluca_testa.jpg!
+ !/images/agentur/annigna_caprez.jpg!
+</div>
+
+h1. EBPR berät und unterstützt seit 1989 namhafte Kunden aus den verschiedensten Branchen des Luxussegments und pflegt ein enges Vertrauensverhältnis mit führenden Journalisten, wirtschaftlichen Entscheidungsträgern und gesellschaftlichen Meinungsführern. Die Agentur versteht sich dabei als multidirektionales Bindeglied zwischen Medien, Wirtschaft und Gesellschaft. 
+
+<div id="eliane" class="team vcard">
+
+h2(fn). Eliane
+Bachenheimer
+
+<span class="title">Geschäftsführende Gesellschafterin</span>
+Public Relations seit 1989
+</div>
+
+
+<div id="katja" class="team vcard">
+
+h2(fn). Katja
+Grauwiler
+
+<span class="title">Stv. Geschäftsführerin</span>
+Public Relations seit 2000
+</div>
+
+
+<div id="gianluca" class="team vcard">
+
+h2(fn). Gian Luca
+Testa
+
+<span class="title">Consultant</span>
+Public Relations seit 2009
+</div>
+
+
+<div id="annigna" class="team vcard">
+
+h2(fn). Annigna
+Caprez
+
+<span class="title">Junior Consultant</span>
+Public Relations seit 2010
+</div>
+
+<div class="grid_12"></div>
+<div id="isabel" class="team vcard">
+
+h2(fn). Isabel 
+Stamm
+
+<span class="title">Administration</span>
+</div>
+
+

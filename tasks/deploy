@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+ncftpput -R -v -u ebprch ftp.ebpr.ch /www _site/*

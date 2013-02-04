@@ -1,0 +1,68 @@
+---
+layout: post
+title: Services
+switch: /leistungen
+priority: 0.5
+---  
+
+<div id="slider">  
+ !/images/leistungen/pr6.jpg!
+ !/images/leistungen/pr1.jpg!
+ !/images/leistungen/events.jpg!
+ !/images/leistungen/s1.jpg!
+ !/images/leistungen/pr9.jpg!
+ !/images/leistungen/pr8.jpg!
+ !/images/leistungen/pr5.jpg!
+ !/images/leistungen/pr4.jpg!
+ !/images/leistungen/pr3.jpg!
+ !/images/leistungen/pr2.jpg!
+ !/images/leistungen/events4.jpg!
+ !/images/leistungen/events2.jpg!
+ !/images/leistungen/BMROADSHOW-1132.jpg!
+ !/images/leistungen/BMROADSHOW-503.jpg!
+</div>
+
+
+
+
+h1. EBPR provides an extensive range of communication solutions for the luxury segment. 
+From the strategy to the organisation to the implementation.
+Everything on one’s hands and always tailor-made.
+
+<section>
+
+h2. Strategy
+
+Strategic consulting is the start of all communication activities. Its goal is to ensure that all emerging operative decisions are coherent with the company’s overall strategic aims and support their implementation.
+
+EBPR analyses the client’s brand and products as well as their competition in order to create the ideal strategy for the communication of the target group relevant topics.
+</section>
+
+<section>
+
+h2. Public Relations 
+
+Public Relations on the one hand as media work with the objective of implementing a single product in the relevant media. Product PR increases product awareness among target groups and creates consumer demand. Public Relations on the other hand as Corporate PR with the objective to adjust the public perception of a company or brand according to the corporate guidelines.
+
+EBPR is a reliable and creative partner to the media. With unique topics and authentic stories, as well as individual solutions for the execution of exclusive reports, we support the editorial work. Our clients profit from this partnership in form of a basis for successful public relations.
+</section>
+
+<section>
+
+h2. Events
+
+Events allow an intensive, direct experience of the client with the brand and its universe. This creates an impactful emotional bond between brand and target groups, the basis for a long-term loyalty of new clients.
+
+EBPR consults its clients in the strategic decision on the form of event (media/society, public/non-public), coordinates all organisational processes and supports the acquisition of guests.
+</section>
+
+<section>
+
+h2. Social Lobbying
+
+One of the strongest communication tools is word-of-mouth – suggestions and recommendations within a social community have a strong impact on consumer decisions.
+
+EBPR lobbies for its clients and their products among relevant social entities and target groups to support a positive and successful brand image.
+</section>
+
+                                                             

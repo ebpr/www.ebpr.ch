@@ -1,0 +1,136 @@
+---
+layout: post
+title: References
+published: true
+switch: /referenzen
+priority: 0.5
+---
+
+
+<div id="slider">
+  !/images/referenzen/1_3704_L10.jpg!
+  !/images/referenzen/baumeetmercier.jpg!
+  !/images/referenzen/baumeetmercier2.jpg!
+  !/images/referenzen/baumeetmercier3.jpg!
+  !/images/referenzen/cent.jpg!
+  !/images/referenzen/GIARDINO_HOTEL_2.jpg!
+  !/images/referenzen/clarins_6.jpg!
+  !/images/referenzen/clarins_7.jpg!
+  !/images/referenzen/clarins1.jpg!
+  !/images/referenzen/cq5dam.jpg!
+  !/images/referenzen/Display_POS.jpg!
+  !/images/referenzen/hhhhhotel.jpg!
+  !/images/referenzen/IMG_6690b.jpg!
+  !/images/referenzen/Lanserhof-Gartenansicht.jpg!
+  !/images/referenzen/terredeshommes.jpg!
+  !/images/referenzen/teojakob.jpg!
+</div>
+
+
+h1. EBPR provides an extensive range of communication solutions for the luxury segment. 
+From the strategy to the organisation to the implementation. 
+Everything on one’s hands and always tailor-made.
+
+<div class="referenzen">
+h2. Watches &
+Jewellry
+
+* Baume & Mercier 
+*(old) Beyer Chronometrie *
+*(old) Bucherer *
+*(old) Ebel *
+*(old) Furrer-Jacot *
+*(old) Gübelin *
+*(old) IWC Schaffhausen *
+*(old) TAG Heuer *
+*(old) Tiffany & Co. *
+
+</div>
+
+<div class="referenzen">
+h2. Fashion & 
+Accessoires
+
+* Ermenegildo Zegna
+* Moncler
+* Bottega Veneta
+*(old) Hermès *
+*(old) J.M. Weston *
+*(old) MBT *
+
+</div>
+
+<div class="referenzen">
+h2. Cosmetics & 
+Fragrances
+
+* Azzaro Parfums
+* Clarins
+* Clarins Men
+* Jacqueline Piotaz Switzerland
+* Kibio
+* L’Occitane
+* Parfums Hermès
+* Swarovski Parfums
+* Thierry Mugler
+*(old) Dr. Richard Gimmel *
+*(old) Formula Fiorina *
+*(old) Frédéric Fekkai *
+*(old) My Blend *
+*(old) Porsche Design *
+*(old) Victorinox Fragrance *
+
+</div>
+
+<div class="referenzen">
+h2. Hotels &
+Fine Food
+
+* Lanserhof, Lans
+* Suvretta House, St. Moritz
+*(old) Badrutt’s Palace, St. Moritz *
+*(old) Beschle Chocolatier Suisse *
+*(old) CIVB *
+*(old) Giardino Hotel Group *
+*(old) Grand Hotels Bad Ragaz *
+*(old) Hotel de Crillon, Paris *
+*(old) Park Hyatt, Zürich *
+
+</div>
+
+
+
+<div class="grid_12"></div>
+
+<div class="referenzen">
+h2. Automobile & 
+Technology
+
+*(old) Lexus *
+*(old) Peraves *
+
+</div>
+
+<div class="referenzen">
+h2. Arts & 
+Culture
+
+*(old) H/AND *
+*(old) St. Moritz Art Masters *
+*(old) Tefaf Basel *
+
+</div>
+
+<div class="referenzen">
+h2. Further clients
+<br />
+* Victorinox
+*(old) Bank Julius Bär *
+*(old) Teo Jakob AG
+
+</div>
+
+<div class="referenzen old" style="border:none;padding-top: 98px;">
+<span class="star">*</span>former clients
+
+</div>
