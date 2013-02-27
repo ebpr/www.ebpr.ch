@@ -3,9 +3,9 @@ layout: post
 title: Services
 switch: /leistungen
 priority: 0.5
----  
-
-<div id="slider">  
+---
+<div class="intro">
+<div id="slider">
  !/images/leistungen/pr6.jpg!
  !/images/leistungen/pr1.jpg!
  !/images/leistungen/events.jpg!
@@ -29,6 +29,7 @@ h1. EBPR provides an extensive range of communication solutions for the luxury s
 From the strategy to the organisation to the implementation.
 Everything on one’s hands and always tailor-made.
 
+</div>
 <section>
 
 h2. Strategy

@@ -5,60 +5,60 @@ published: true
 switch: /agentur
 priority: 0.5
 ---
-
-<div id="slider">
- !/images/agentur/elianebachenheimer.jpg!
- !/images/agentur/katja_grauwiler.jpg!
- !/images/agentur/gianluca_testa.jpg!
- !/images/agentur/annigna_caprez.jpg!
+<div class="intro">
+<div id="slider" class="shadow">
+ <img data-caption="#captionOne" src="/images/agentur/elianebachenheimer.jpg" alt="Eliane Bachenheimer">
+ <img data-caption="#captionTwo" src="/images/agentur/katja_grauwiler.jpg" alt="Katja Grauwiler">
+ <img data-caption="#captionThree" src="/images/agentur/gianluca_testa.jpg" alt="Gian Luca Testa">
+ <img data-caption="#captionFour" src="/images/agentur/annigna_caprez.jpg" alt="Annigna Caprez">
 </div>
 
 h1. Since 1989 EBPR consults and supports well-known clients from various branches of the luxury segment and maintains a close, trusting relationship with leading journalists, economic decision makers and social opinion leaders. The agency thereby sees itself as a multidirectional connector between media, economy and society.
 
-<section id="eliane" class="team vcard">
+</div>
+<div class="team">
+<div>
 
-h2(fn). Eliane
+h2. Eliane
 Bachenheimer
 
-<span class="title">Managing Partner</span>
+Managing Partner
 Public Relations since 1989
-</section>
+</div>
+<div>
 
-<section id="katja" class="team vcard">
-
-h2(fn). Katja
+h2. Katja
 Grauwiler
 
-<span class="title">Deputy Managing Director</span>
+Deputy Managing Director
 Public Relations since 2000
-</section>
+</div>
+<div>
 
-
-<section id="gianluca" class="team vcard">
-
-h2(fn). Gian Luca
+h2. Gian Luca
 Testa
 
-<span class="title">Consultant</span>
+Consultant
 Public Relations since 2009
-</section>
+</div>
+<div>
 
-
-<section id="annigna" class="team vcard">
-
-h2(fn). Annigna 
+h2. Annigna
 Caprez
 
-<span class="title">Junior Consultant</span>
+Junior Consultant
 Public Relations since 2010
-</section>
+</div>
+<div class="row"></div>
+<div>
 
-
-<div class="grid_12"></div>
-<section id="isabel" class="team vcard">
-
-h2(fn). Isabel 
+h2. Isabel
 Stamm
 
-<span class="title">Administration</span>
-</section>
+Administration
+</div>
+</div>
+<span class="orbit-caption" id="captionOne">Eliane Bachenheimer</span>
+<span class="orbit-caption" id="captionTwo">Katja Grauwiler</span>
+<span class="orbit-caption" id="captionThree">Gian Luca Testa</span>
+<span class="orbit-caption" id="captionFour">Annigna Caprez</span>

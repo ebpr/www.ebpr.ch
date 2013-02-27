@@ -4,24 +4,25 @@ title: Casestudies
 lang: de
 switch: /cases
 priority: 0.8
----                                                           
-
+---
+<div class="intro">
 <div id="slider">
  !/images/casestudies/bm.jpg!
- !/images/casestudies/bm3.jpg!
  !/images/casestudies/bmladiesnight.jpg!
  !/images/casestudies/eb2.jpg!
- !/images/casestudies/media1.jpg!
- !/images/casestudies/media3.jpg!
- !/images/casestudies/online.jpg!
  !/images/casestudies/roadshow.jpg!
+ !/images/casestudies/food.jpg!
+ !/images/casestudies/moncler.jpg!
+ !/images/casestudies/drinks.jpg!
+ !/images/casestudies/freybauknecht.jpg!
+ !/images/casestudies/marquardgubser.jpg!
+ !/images/casestudies/bottegaveneta.jpg!
 </div>
 
 
 h1. EBPR berät und unterstützt seit 1989 namhafte Kunden aus den verschiedensten Branchen des Luxussegments und pflegt ein enges Vertrauensverhältnis mit führenden Journalisten, wirtschaftlichen Entscheidungsträgern und gesellschaftlichen Meinungsführern. Die Agentur versteht sich dabei als multidirektionales Bindeglied zwischen Medien, Wirtschaft und Gesellschaft.
 
-
-
+</div>
 <section>
 h2. Produkt PR
 

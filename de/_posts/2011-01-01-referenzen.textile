@@ -6,24 +6,22 @@ switch: /references
 priority: 0.8
 ---
 
-
+<div class="intro">
 <div id="slider">
-  !/images/referenzen/1_3704_L10.jpg!
-  !/images/referenzen/baumeetmercier.jpg!
-  !/images/referenzen/baumeetmercier2.jpg!
-  !/images/referenzen/baumeetmercier3.jpg!
+  !/images/referenzen/victorinox.jpg!
+  !/images/referenzen/baumemercier.jpg!
+  !/images/referenzen/baumemercier2.jpg!
+  !/images/referenzen/baumemercier3.jpg!
   !/images/referenzen/cent.jpg!
-  !/images/referenzen/GIARDINO_HOTEL_2.jpg!
-  !/images/referenzen/clarins_6.jpg!
   !/images/referenzen/clarins_7.jpg!
   !/images/referenzen/clarins1.jpg!
-  !/images/referenzen/cq5dam.jpg!
-  !/images/referenzen/Display_POS.jpg!
-  !/images/referenzen/hhhhhotel.jpg!
-  !/images/referenzen/IMG_6690b.jpg!
-  !/images/referenzen/Lanserhof-Gartenansicht.jpg!
-  !/images/referenzen/terredeshommes.jpg!
-  !/images/referenzen/teojakob.jpg!
+  !/images/referenzen/piotaz.jpg!
+  !/images/referenzen/serum.jpg!
+  !/images/referenzen/model.jpg!
+  !/images/referenzen/occitane.jpg!
+  !/images/referenzen/ss13.jpg!
+  !/images/referenzen/suvretta.jpg!
+  !/images/referenzen/grandrestaurant.jpg!
 </div>
 
 
@@ -31,7 +29,10 @@ h1. EBPR bietet umfassende Kommunikationslösungen für das Luxussegment.
 Von der Strategie, über die Organisation, bis hin zur Implementierung. 
 Alles aus einer Hand, immer massgeschneidert.
 
+</div>
+
 <div class="referenzen">
+<div>
 
 h2. Uhren &
 Schmuck
@@ -48,7 +49,7 @@ Schmuck
 
 </div>
 
-<div class="referenzen">
+<div>
 
 h2. Mode & 
 Accessoires
@@ -62,7 +63,7 @@ Accessoires
 
 </div>
 
-<div class="referenzen">
+<div>
 
 h2. Kosmetik & 
 Düfte
@@ -85,7 +86,7 @@ Düfte
 
 </div>
 
-<div class="referenzen">
+<div>
 
 h2. Hotellerie &
 Kulinarik
@@ -101,9 +102,9 @@ Kulinarik
 *(old) Park Hyatt, Zürich *
 
 </div>
-<div class="grid_12"></div>
 
-<div class="referenzen">
+<div class="row"></div>
+<div>
 
 h2. Automobil & 
 Technik
@@ -113,7 +114,7 @@ Technik
 
 </div>
 
-<div class="referenzen">
+<div>
 
 h2. Kunst & 
 Kultur
@@ -138,4 +139,5 @@ h2. Weitere Kunden
 <div class="referenzen old" style="border:none;padding-top: 98px;">
 <span class="star">*</span>ehemalige Kunden
 
+</div>
 </div>

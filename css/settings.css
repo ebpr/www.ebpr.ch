@@ -1,0 +1,66 @@
+/*
+Syntax error: File to import not found or unreadable: foundation/modular-scale.
+              Load paths:
+                /Users/37R/Sites/ebpr/web/src
+                /Users/37R/.rvm/gems/ruby-1.9.3-p194/gems/compass-0.12.2/frameworks/blueprint/stylesheets
+                /Users/37R/.rvm/gems/ruby-1.9.3-p194/gems/compass-0.12.2/frameworks/compass/stylesheets
+                /Users/37R/.rvm/gems/ruby-1.9.3-p194/gems/sassy-math-1.2/stylesheets
+                /Users/37R/.rvm/gems/ruby-1.9.3-p194/gems/modular-scale-1.0.2/stylesheets
+                /Users/37R/.rvm/gems/ruby-1.9.3-p194/gems/zurb-foundation-3.2.2/scss
+                Compass::SpriteImporter
+        on line 1 of /Users/37R/Sites/ebpr/web/src/settings.sass
+
+1: /Users/37R/Sites/ebpr/web/src/settings.sass
+
+Backtrace:
+/Users/37R/Sites/ebpr/web/src/settings.sass:1
+/Users/37R/.rvm/gems/ruby-1.9.3-p194/gems/sass-3.2.3/lib/sass/tree/import_node.rb:67:in `rescue in import'
+/Users/37R/.rvm/gems/ruby-1.9.3-p194/gems/sass-3.2.3/lib/sass/tree/import_node.rb:45:in `import'
+/Users/37R/.rvm/gems/ruby-1.9.3-p194/gems/sass-3.2.3/lib/sass/tree/import_node.rb:28:in `imported_file'
+/Users/37R/.rvm/gems/ruby-1.9.3-p194/gems/sass-3.2.3/lib/sass/tree/import_node.rb:37:in `css_import?'
+/Users/37R/.rvm/gems/ruby-1.9.3-p194/gems/sass-3.2.3/lib/sass/tree/visitors/perform.rb:215:in `visit_import'
+/Users/37R/.rvm/gems/ruby-1.9.3-p194/gems/sass-3.2.3/lib/sass/tree/visitors/base.rb:37:in `visit'
+/Users/37R/.rvm/gems/ruby-1.9.3-p194/gems/sass-3.2.3/lib/sass/tree/visitors/perform.rb:98:in `visit'
+/Users/37R/.rvm/gems/ruby-1.9.3-p194/gems/sass-3.2.3/lib/sass/tree/visitors/base.rb:53:in `block in visit_children'
+/Users/37R/.rvm/gems/ruby-1.9.3-p194/gems/sass-3.2.3/lib/sass/tree/visitors/base.rb:53:in `map'
+/Users/37R/.rvm/gems/ruby-1.9.3-p194/gems/sass-3.2.3/lib/sass/tree/visitors/base.rb:53:in `visit_children'
+/Users/37R/.rvm/gems/ruby-1.9.3-p194/gems/sass-3.2.3/lib/sass/tree/visitors/perform.rb:107:in `block in visit_children'
+/Users/37R/.rvm/gems/ruby-1.9.3-p194/gems/sass-3.2.3/lib/sass/tree/visitors/perform.rb:119:in `with_environment'
+/Users/37R/.rvm/gems/ruby-1.9.3-p194/gems/sass-3.2.3/lib/sass/tree/visitors/perform.rb:106:in `visit_children'
+/Users/37R/.rvm/gems/ruby-1.9.3-p194/gems/sass-3.2.3/lib/sass/tree/visitors/base.rb:37:in `block in visit'
+/Users/37R/.rvm/gems/ruby-1.9.3-p194/gems/sass-3.2.3/lib/sass/tree/visitors/perform.rb:126:in `visit_root'
+/Users/37R/.rvm/gems/ruby-1.9.3-p194/gems/sass-3.2.3/lib/sass/tree/visitors/base.rb:37:in `visit'
+/Users/37R/.rvm/gems/ruby-1.9.3-p194/gems/sass-3.2.3/lib/sass/tree/visitors/perform.rb:98:in `visit'
+/Users/37R/.rvm/gems/ruby-1.9.3-p194/gems/sass-3.2.3/lib/sass/tree/visitors/perform.rb:7:in `visit'
+/Users/37R/.rvm/gems/ruby-1.9.3-p194/gems/sass-3.2.3/lib/sass/tree/root_node.rb:20:in `render'
+/Users/37R/.rvm/gems/ruby-1.9.3-p194/gems/sass-3.2.3/lib/sass/engine.rb:315:in `_render'
+/Users/37R/.rvm/gems/ruby-1.9.3-p194/gems/sass-3.2.3/lib/sass/engine.rb:262:in `render'
+/Users/37R/.rvm/gems/ruby-1.9.3-p194/gems/compass-0.12.2/lib/compass/compiler.rb:140:in `block (2 levels) in compile'
+/Users/37R/.rvm/gems/ruby-1.9.3-p194/gems/compass-0.12.2/lib/compass/compiler.rb:126:in `timed'
+/Users/37R/.rvm/gems/ruby-1.9.3-p194/gems/compass-0.12.2/lib/compass/compiler.rb:139:in `block in compile'
+/Users/37R/.rvm/gems/ruby-1.9.3-p194/gems/compass-0.12.2/lib/compass/logger.rb:45:in `red'
+/Users/37R/.rvm/gems/ruby-1.9.3-p194/gems/compass-0.12.2/lib/compass/compiler.rb:138:in `compile'
+/Users/37R/.rvm/gems/ruby-1.9.3-p194/gems/compass-0.12.2/lib/compass/compiler.rb:118:in `compile_if_required'
+/Users/37R/.rvm/gems/ruby-1.9.3-p194/gems/compass-0.12.2/lib/compass/compiler.rb:103:in `block (2 levels) in run'
+/Users/37R/.rvm/gems/ruby-1.9.3-p194/gems/compass-0.12.2/lib/compass/compiler.rb:101:in `each'
+/Users/37R/.rvm/gems/ruby-1.9.3-p194/gems/compass-0.12.2/lib/compass/compiler.rb:101:in `block in run'
+/Users/37R/.rvm/gems/ruby-1.9.3-p194/gems/compass-0.12.2/lib/compass/compiler.rb:126:in `timed'
+/Users/37R/.rvm/gems/ruby-1.9.3-p194/gems/compass-0.12.2/lib/compass/compiler.rb:100:in `run'
+/Users/37R/.rvm/gems/ruby-1.9.3-p194/gems/compass-0.12.2/lib/compass/commands/watch_project.rb:147:in `recompile'
+/Users/37R/.rvm/gems/ruby-1.9.3-p194/gems/compass-0.12.2/lib/compass/commands/watch_project.rb:68:in `perform'
+/Users/37R/.rvm/gems/ruby-1.9.3-p194/gems/compass-0.12.2/lib/compass/commands/base.rb:18:in `execute'
+/Users/37R/.rvm/gems/ruby-1.9.3-p194/gems/compass-0.12.2/lib/compass/commands/project_base.rb:19:in `execute'
+/Users/37R/.rvm/gems/ruby-1.9.3-p194/gems/compass-0.12.2/lib/compass/exec/sub_command_ui.rb:43:in `perform!'
+/Users/37R/.rvm/gems/ruby-1.9.3-p194/gems/compass-0.12.2/lib/compass/exec/sub_command_ui.rb:15:in `run!'
+/Users/37R/.rvm/gems/ruby-1.9.3-p194/gems/compass-0.12.2/bin/compass:30:in `block in <top (required)>'
+/Users/37R/.rvm/gems/ruby-1.9.3-p194/gems/compass-0.12.2/bin/compass:44:in `call'
+/Users/37R/.rvm/gems/ruby-1.9.3-p194/gems/compass-0.12.2/bin/compass:44:in `<top (required)>'
+/Users/37R/.rvm/gems/ruby-1.9.3-p194/bin/compass:19:in `load'
+/Users/37R/.rvm/gems/ruby-1.9.3-p194/bin/compass:19:in `<main>'
+/Users/37R/.rvm/gems/ruby-1.9.3-p194/bin/ruby_noexec_wrapper:14:in `eval'
+/Users/37R/.rvm/gems/ruby-1.9.3-p194/bin/ruby_noexec_wrapper:14:in `<main>'
+*/
+body:before {
+  white-space: pre;
+  font-family: monospace;
+  content: "Syntax error: File to import not found or unreadable: foundation/modular-scale.\A               Load paths:\A                 /Users/37R/Sites/ebpr/web/src\A                 /Users/37R/.rvm/gems/ruby-1.9.3-p194/gems/compass-0.12.2/frameworks/blueprint/stylesheets\A                 /Users/37R/.rvm/gems/ruby-1.9.3-p194/gems/compass-0.12.2/frameworks/compass/stylesheets\A                 /Users/37R/.rvm/gems/ruby-1.9.3-p194/gems/sassy-math-1.2/stylesheets\A                 /Users/37R/.rvm/gems/ruby-1.9.3-p194/gems/modular-scale-1.0.2/stylesheets\A                 /Users/37R/.rvm/gems/ruby-1.9.3-p194/gems/zurb-foundation-3.2.2/scss\A                 Compass::SpriteImporter\A         on line 1 of /Users/37R/Sites/ebpr/web/src/settings.sass\A \A 1: /Users/37R/Sites/ebpr/web/src/settings.sass"; }

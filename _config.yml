@@ -9,8 +9,9 @@ analytics_id: UA-9138538-1
 permalink: /:title
 
 exclude:
-  /src
   build
+  intermediate
+  publish
   config.rb
   README.textile
   tasks

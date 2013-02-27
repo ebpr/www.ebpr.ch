@@ -1,0 +1,146 @@
+@import compass/typography/text/ellipsis
+// @import compass/layout/grid-background
+@import settings
+@import "compass/css3"
+@import "foundation/settings"
+@import "foundation/functions/all"
+@import "foundation/mixins/clearfix"
+@import "foundation/mixins/css-triangle"
+@import "foundation/mixins/font-size"
+@import "foundation/mixins/respond-to"
+@import "foundation/mixins/semantic-grid"
+@import "modular-scale"
+@import "foundation/common/globals"
+@import "foundation/components/grid"
+@import "foundation/common/typography"
+// @import "foundation/components/modules/topbar";
+// @import "foundation/components/modules/navbar";
+@import "foundation/components/modules/orbit"
+@import "foundation/components/modules/mqueries"
+
++font-face("Mager", font-files("/fonts/Mager.eot#", eot,"/fonts/Mager.ttf", truetype, "/fonts/Mager.otf", opentype))
++font-face("Normal", font-files("/fonts/Normal.eot#", eot,"/fonts/Normal.ttf", truetype, "/fonts/Normal.otf", opentype))
++font-face("Fett", font-files("/fonts/Fett.eot#", eot,"/fonts/Fett.ttf", truetype, "/fonts/Fett.otf", opentype))
+
+body
+  font-family: "Normal"
+  font-weight: normal
+  +word-break(break-word)
+  +hyphens(auto)
+  +background-image(linear-gradient(#fff,#FFF 70%, #DDD))
+  background-size: 100% 100%
+
+h1, h2
+  font-size: 22px
+  font-weight: normal
+h1
+  font-family: "Mager"
+  line-height: 1.4
+h2
+  border-top: 1px solid
+  padding-top: 2px
+  padding-bottom: 14px
+  margin-top: 40px
+  font-family: "Fett"
+
+p
+  line-height: 1.4
+  font-weight: normal
+
+strong
+  font-weight: normal
+  font-family: "Fett"
+
+header
+  min-height: 100px
+  padding-top: 20px
+  padding-bottom: 30px
+
+nav
+  +column(3)
+  ul
+    float: right
+  li
+    float: left
+    list-style: none
+  a
+    margin: 10px
+    font-family: "Fett"
+    font-size: 14px
+    letter-spacing: 0.5
+    text-transform: uppercase
+    color: #CCC
+    &:hover
+      border-bottom: 2px solid
+.selected
+  color: #373737
+  border-bottom: 2px solid
+
+.intro
+  +column(4)
+  h1
+    padding-top: 10px
+    padding-bottom: 20px
+
+header>a
+  +column(1)
+
+section
+  +column(2)
+
+header, .content, footer
+  +outerRow()
+
+.referenzen>div, .team>div
+  +column(1)
+  li
+    list-style: none
+    border-top: 1px solid #CCC
+    +ellipsis()
+    &:last-child
+      border-bottom: 1px solid
+  .old
+    color: #BBB
+  .star
+    padding: 0px 10px
+    font-size: 30px
+    position: relative
+    top: 4px
+
+footer
+  #footer-wrap
+    +column(4)
+    padding-top: 70px
+    padding-bottom: 50px
+
+  ul
+    @extend .block-grid
+    @extend .four-up
+    @extend .mobile
+
+  .line
+    border-top: 1px solid
+    width: 100%
+    display: block
+    padding-bottom: 4px
+
+#slider
+  background: #FFF
+  height: 364px
+  img
+    display: none
+
+#slider.orbit
+  background: none
+  img
+    display: block
+
+.orbit-caption
+  text-align: right!important
+  padding-right: 10px!important
+.shadow
+  +box-shadow(0px 4px 20px #DDD)
+
+#logo
+  img
+    max-width: 250px

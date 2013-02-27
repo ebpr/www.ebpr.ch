@@ -7,23 +7,22 @@ priority: 0.5
 ---
 
 
+<div class="intro">
 <div id="slider">
-  !/images/referenzen/1_3704_L10.jpg!
-  !/images/referenzen/baumeetmercier.jpg!
-  !/images/referenzen/baumeetmercier2.jpg!
-  !/images/referenzen/baumeetmercier3.jpg!
+  !/images/referenzen/victorinox.jpg!
+  !/images/referenzen/baumemercier.jpg!
+  !/images/referenzen/baumemercier2.jpg!
+  !/images/referenzen/baumemercier3.jpg!
   !/images/referenzen/cent.jpg!
-  !/images/referenzen/GIARDINO_HOTEL_2.jpg!
-  !/images/referenzen/clarins_6.jpg!
   !/images/referenzen/clarins_7.jpg!
   !/images/referenzen/clarins1.jpg!
-  !/images/referenzen/cq5dam.jpg!
-  !/images/referenzen/Display_POS.jpg!
-  !/images/referenzen/hhhhhotel.jpg!
-  !/images/referenzen/IMG_6690b.jpg!
-  !/images/referenzen/Lanserhof-Gartenansicht.jpg!
-  !/images/referenzen/terredeshommes.jpg!
-  !/images/referenzen/teojakob.jpg!
+  !/images/referenzen/piotaz.jpg!
+  !/images/referenzen/serum.jpg!
+  !/images/referenzen/model.jpg!
+  !/images/referenzen/occitane.jpg!
+  !/images/referenzen/ss13.jpg!
+  !/images/referenzen/suvretta.jpg!
+  !/images/referenzen/grandrestaurant.jpg!
 </div>
 
 
@@ -31,7 +30,9 @@ h1. EBPR provides an extensive range of communication solutions for the luxury s
 From the strategy to the organisation to the implementation. 
 Everything on one’s hands and always tailor-made.
 
+</div>
 <div class="referenzen">
+<div>
 h2. Watches &
 Jewellry
 
@@ -47,7 +48,7 @@ Jewellry
 
 </div>
 
-<div class="referenzen">
+<div>
 h2. Fashion & 
 Accessoires
 
@@ -60,7 +61,7 @@ Accessoires
 
 </div>
 
-<div class="referenzen">
+<div>
 h2. Cosmetics & 
 Fragrances
 
@@ -82,7 +83,7 @@ Fragrances
 
 </div>
 
-<div class="referenzen">
+<div>
 h2. Hotels &
 Fine Food
 
@@ -98,11 +99,9 @@ Fine Food
 
 </div>
 
+<div class="row"></div>
 
-
-<div class="grid_12"></div>
-
-<div class="referenzen">
+<div>
 h2. Automobile & 
 Technology
 
@@ -111,7 +110,7 @@ Technology
 
 </div>
 
-<div class="referenzen">
+<div>
 h2. Arts & 
 Culture
 
@@ -121,7 +120,7 @@ Culture
 
 </div>
 
-<div class="referenzen">
+<div>
 h2. Further clients
 <br />
 * Victorinox
@@ -130,7 +129,8 @@ h2. Further clients
 
 </div>
 
-<div class="referenzen old" style="border:none;padding-top: 98px;">
+<div class="old" style="border:none;padding-top: 98px;">
 <span class="star">*</span>former clients
 
+</div>
 </div>

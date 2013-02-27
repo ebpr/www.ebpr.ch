@@ -2,8 +2,9 @@
 layout: post
 title: Impressum
 priority: 0.1
----                                                                 
+---
 
+<div class="intro">
 <div id="slider">
  !/images/impressum/impressum3.jpg!
  !/images/impressum/impressum2.jpg!
@@ -12,11 +13,12 @@ priority: 0.1
 </div>
 
 
-
 h1. Impressum
 
+</div>
+
 <section>
-h2. Webseitenbetreiber 
+h2. Webseitenbetreiber
 
 EBPR Eliane Bachenheimer Public Relations
 Freyastrasse 14
@@ -30,7 +32,7 @@ h2. Design und Umsetzung
 www.leanderherzog.ch":http://www.leanderherzog.ch
 </section>
 
-<div class="grid_12"></div>
+<div class="row"></div>
 
 <section>
 h2. Rechtliches
@@ -38,26 +40,22 @@ h2. Rechtliches
 Die Inhalte dieser Website werden mit grösstmöglicher Sorgfalt erstellt. EBPR übernimmt jedoch keine Gewähr für die Richtigkeit, Vollständigkeit und Aktualität der bereitgestellten Inhalte. Die Nutzung der Inhalte der Website erfolgt auf eigene Gefahr des Nutzers.
 </section>
 
-
 <section>
 h2. Links
 
 Verlinkte Websites unterliegen der Haftung der jeweiligen Betreiber. EBPR hat keinen Einfluss auf die aktuellen und zukünftigen Inhalte der verknüpften Seiten und macht sich die verlinkten Inhalte auch nicht zu eigen.
 </section>
 
-<div class="grid_12"></div>
+<div class="row"></div>
+
 <section>
 h2. Urheberrecht
 
-
 Das Copyright für die hier veröffentlichten Inhalte liegt bei EBPR. Die Darstellung dieser Website in fremden Frames ist nur mit schriftlicher Erlaubnis zulässig.
 </section>
-
 
 <section>
 h2. Datenschutz
 
 Durch den Besuch dieser Website können Informationen über den Zugriff gespeichert werden, zum Beispiel durch google analytics. Diese Daten sind anonymisiert. Sie werden ausschliesslich zu statistischen Zwecken ausgewertet. Eine Weitergabe an Dritte findet nicht statt.
 </section>
-
-

@@ -6,6 +6,7 @@ switch: /services
 priority: 0.8
 ---
 
+<div class="intro">
 <div id="slider">  
  !/images/leistungen/pr6.jpg!
  !/images/leistungen/pr1.jpg!
@@ -27,6 +28,7 @@ h1. EBPR bietet umfassende Kommunikationslösungen für das Luxussegment.
 Von der Strategie, über die Organisation, bis hin zur Implementierung.
 Alles aus einer Hand, immer massgeschneidert.
 
+</div>
 <section>
 
 h2. Strategie

@@ -1,5 +1,5 @@
 *~
-_site/*
+_site
+intermediate
 *.swp
-css/*
-.sass-cache/
+.sass-cache
