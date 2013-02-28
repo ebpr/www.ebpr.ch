@@ -6,7 +6,7 @@ switch: /agency
 priority: 0.8
 ---
 <div class="intro">
-<div id="slider" class="shadow">
+<div class="slider shadow">
  <img data-caption="#captionOne" src="/images/agentur/elianebachenheimer.jpg" alt="Eliane Bachenheimer">
  <img data-caption="#captionTwo" src="/images/agentur/katja_grauwiler.jpg" alt="Katja Grauwiler">
  <img data-caption="#captionThree" src="/images/agentur/gianluca_testa.jpg" alt="Gian Luca Testa">

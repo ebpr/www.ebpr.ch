@@ -6,9 +6,8 @@ switch: /referenzen
 priority: 0.5
 ---
 
-
 <div class="intro">
-<div id="slider">
+<div class="slider">
   !/images/referenzen/victorinox.jpg!
   !/images/referenzen/baumemercier.jpg!
   !/images/referenzen/baumemercier2.jpg!

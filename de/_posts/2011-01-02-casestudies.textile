@@ -6,7 +6,7 @@ switch: /cases
 priority: 0.8
 ---
 <div class="intro">
-<div id="slider">
+<div class="slider">
  !/images/casestudies/bm.jpg!
  !/images/casestudies/bmladiesnight.jpg!
  !/images/casestudies/eb2.jpg!

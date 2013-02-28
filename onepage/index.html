@@ -5,6 +5,8 @@ lang: de
 switch: services
 ---
 
+{% for post in site.categories.de %}
 <div class="content">
-{{ site.categories.de | first }}
+  {{ post.content }}
 </div>
+{% endfor %}

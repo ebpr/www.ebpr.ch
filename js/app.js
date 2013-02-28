@@ -54,6 +54,6 @@
     s.parentNode.insertBefore(g, s);
    })(document, 'script');
 
-      $("#slider").orbit({directionalNav: false,advanceSpeed: 2500,animation: "fade"});
+    $(".slider").orbit({directionalNav: false,advanceSpeed: 2500,animation: "fade"});
 
 })(jQuery, this);

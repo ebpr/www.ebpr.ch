@@ -7,7 +7,7 @@ priority: 0.8
 ---
 
 <div class="intro">
-<div id="slider">  
+<div class="slider">
  !/images/leistungen/pr6.jpg!
  !/images/leistungen/pr1.jpg!
  !/images/leistungen/events.jpg!

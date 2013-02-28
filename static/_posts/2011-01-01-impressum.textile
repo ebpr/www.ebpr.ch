@@ -5,7 +5,7 @@ priority: 0.1
 ---
 
 <div class="intro">
-<div id="slider">
+<div class="slider">
  !/images/impressum/impressum3.jpg!
  !/images/impressum/impressum2.jpg!
  !/images/impressum/impressum.jpg!
