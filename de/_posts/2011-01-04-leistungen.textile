@@ -8,20 +8,15 @@ priority: 0.8
 
 <div class="intro">
 <div class="slider">
- !/images/leistungen/pr6.jpg!
  !/images/leistungen/pr1.jpg!
- !/images/leistungen/events.jpg!
- !/images/leistungen/s1.jpg!
- !/images/leistungen/pr9.jpg!
- !/images/leistungen/pr8.jpg!
- !/images/leistungen/pr5.jpg!
- !/images/leistungen/pr4.jpg!
- !/images/leistungen/pr3.jpg!
- !/images/leistungen/pr2.jpg!
- !/images/leistungen/events4.jpg!
- !/images/leistungen/events2.jpg!
  !/images/leistungen/BMROADSHOW-1132.jpg!
  !/images/leistungen/BMROADSHOW-503.jpg!
+ !/images/leistungen/shop1.jpg!
+ !/images/leistungen/shop2.jpg!
+ !/images/leistungen/shop3.jpg!
+ !/images/leistungen/baumemercier.jpg!
+ !/images/leistungen/s1.jpg!
+ !/images/leistungen/events4.jpg!
 </div>
 
 h1. EBPR bietet umfassende Kommunikationslösungen für das Luxussegment.
