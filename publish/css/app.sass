@@ -40,17 +40,24 @@ body
   display: block
   clear: both
 h1, h2
-  font-size: 22px
+  font-size: 24px
   font-weight: normal
+  @media ( max-width: 600px )
+    font-size: 16px
 h1
   font-family: "Mager"
   line-height: 1.4
+  @media ( max-width: 600px )
+    font-family: "Normal",sans-serif
 h2
   border-top: 1px solid
-  padding-top: 2px
+  padding-top: 3px
   padding-bottom: 14px
   margin-top: 40px
+  line-height: 1.0
   font-family: "Fett",sans-serif
+  @media ( max-width: 600px )
+    margin-top: 20px
 
 p
   line-height: 1.4
@@ -63,6 +70,9 @@ strong
 header
   padding-top: 50px
   padding-bottom: 50px
+  @media ( max-width: 600px )
+    padding-top: 20px
+    padding-bottom: 20px
 
 nav
   ul
@@ -74,7 +84,7 @@ nav
     +transition-duration(0.5s)
     margin: 10px
     font-family: "Fett",sans-serif
-    font-size: 14px
+    font-size: 15px
     letter-spacing: 0.5
     text-transform: uppercase
     color: #BBB
