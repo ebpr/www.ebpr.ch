@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
 <!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
 <head>
@@ -9,21 +8,34 @@
   <meta name="description" content="EBPR bietet umfassende Kommunikationslösungen für das Luxussegment.">
   <meta name="author" content="Eliane Bachenheimer Public Relations">
   <meta name="google-site-verification" content="L83dfs98IxZkkQcMlk3If3SkMtiHmSKnU5SH8_F_KcY" />
+  <link rel="stylesheet" href="/css/foundation.min.css">
   <link rel="stylesheet" href="/css/app.css">
-  <script src="/js/vendor/modernizr.foundation.js"></script>
+  <script src="/js/vendor/custom.modernizr.js"></script>
 </head>
 <body>
-  <div id="container">
-    <header>
-    <a id="logo" href="/" title="HOME">
-      <img src="/css/ebpr.svg" alt="EBPR">
-    </a>
-    {% include nav.html %}
-    </header>
-    {{ content }}
-    {% include footer.html %}
+  <header class="row">
+  <a class="large-4 columns" id="logo" href="/" title="HOME"><img src="/css/ebpr.svg" alt="EBPR"></a>
+  {% include nav.html %}
+  </header>
+  <div class="content">
+    <div class="row">
+      {{ content }}
+    </div>
   </div>
-  <script src="/js/vendor/foundation.min.js"></script>
-  <script src="/js/app.js"></script>
+  {% include footer.html %}
+<script> document.write('<script src=/js/vendor/' + ('__proto__' in {} ? 'zepto' : 'jquery') + '.js><\/script>'); </script>
+<script src="/js/vendor/foundation.min.js"></script>
+<script>
+  Foundation.libs.orbit.settings.bullets = false;
+  Foundation.libs.orbit.settings.timer_speed = 3000;
+  Foundation.libs.orbit.settings.animation_speed= 300;
+  $(document).foundation();
+  if(Modernizr.svg){}else{ $('#logo').html('<img src="/css/logo.png" alt="EBPR" />'); }
+  var _gaq = [['_setAccount', 'UA-9138538-1'], ['_trackPageview']];
+ (function(d, t) { var g = d.createElement(t), s = d.getElementsByTagName(t)[0]; g.async = true;
+  g.src = ('https:' == location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+  s.parentNode.insertBefore(g, s);
+ })(document, 'script');
+</script>
 </body>
 </html>

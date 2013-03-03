@@ -5,24 +5,24 @@ title: Referenzen
 switch: /references
 priority: 0.8
 ---
+<div class="intro large-12 columns">
 
-<div class="intro">
-<div class="slider">
-  !/images/referenzen/victorinox.jpg!
-  !/images/referenzen/baumemercier.jpg!
-  !/images/referenzen/baumemercier2.jpg!
-  !/images/referenzen/baumemercier3.jpg!
-  !/images/referenzen/cent.jpg!
-  !/images/referenzen/clarins_7.jpg!
-  !/images/referenzen/clarins1.jpg!
-  !/images/referenzen/piotaz.jpg!
-  !/images/referenzen/serum.jpg!
-  !/images/referenzen/model.jpg!
-  !/images/referenzen/occitane.jpg!
-  !/images/referenzen/ss13.jpg!
-  !/images/referenzen/suvretta.jpg!
-  !/images/referenzen/grandrestaurant.jpg!
-</div>
+<ul data-orbit>
+<li><img src="/images/referenzen/victorinox.jpg"></li>
+<li><img src="/images/referenzen/baumemercier.jpg"></li>
+<li><img src="/images/referenzen/baumemercier2.jpg"></li>
+<li><img src="/images/referenzen/baumemercier3.jpg"></li>
+<li><img src="/images/referenzen/cent.jpg"></li>
+<li><img src="/images/referenzen/clarins_7.jpg"></li>
+<li><img src="/images/referenzen/clarins1.jpg"></li>
+<li><img src="/images/referenzen/piotaz.jpg"></li>
+<li><img src="/images/referenzen/serum.jpg"></li>
+<li><img src="/images/referenzen/model.jpg"></li>
+<li><img src="/images/referenzen/occitane.jpg"></li>
+<li><img src="/images/referenzen/ss13.jpg"></li>
+<li><img src="/images/referenzen/suvretta.jpg"></li>
+<li><img src="/images/referenzen/grandrestaurant.jpg"></li>
+</ul>
 
 
 h1. EBPR bietet umfassende Kommunikationslösungen für das Luxussegment. 
@@ -32,7 +32,7 @@ Alles aus einer Hand, immer massgeschneidert.
 </div>
 
 <div class="referenzen">
-<div>
+<div class="large-3 columns">
 
 h2. Uhren &
 Schmuck
@@ -49,7 +49,7 @@ Schmuck
 
 </div>
 
-<div>
+<div class="large-3 columns">
 
 h2. Mode & 
 Accessoires
@@ -63,7 +63,7 @@ Accessoires
 
 </div>
 
-<div>
+<div class="large-3 columns">
 
 h2. Kosmetik & 
 Düfte
@@ -86,7 +86,7 @@ Düfte
 
 </div>
 
-<div>
+<div class="large-3 columns">
 
 h2. Hotellerie &
 Kulinarik
@@ -103,8 +103,8 @@ Kulinarik
 
 </div>
 
-<div class="row"></div>
-<div>
+<div class="large-12 columns"></div>
+<div class="large-3 columns">
 
 h2. Automobil & 
 Technik
@@ -114,7 +114,7 @@ Technik
 
 </div>
 
-<div>
+<div class="large-3 columns">
 
 h2. Kunst & 
 Kultur
@@ -125,7 +125,7 @@ Kultur
 
 </div>
 
-<div class="referenzen">
+<div class="large-3 columns">
 
 h2. Weitere Kunden
 <br />
@@ -136,8 +136,11 @@ h2. Weitere Kunden
 
 </div>
 
-<div class="referenzen old" style="border:none;padding-top: 98px;">
+
+<div class="large-3 columns">
+<div class="old" style="padding-top: 98px;">
 <span class="star">*</span>ehemalige Kunden
+</div>
 
 </div>
 </div>

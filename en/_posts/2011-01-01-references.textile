@@ -5,24 +5,24 @@ published: true
 switch: /referenzen
 priority: 0.5
 ---
+<div class="intro large-12 columns">
 
-<div class="intro">
-<div class="slider">
-  !/images/referenzen/victorinox.jpg!
-  !/images/referenzen/baumemercier.jpg!
-  !/images/referenzen/baumemercier2.jpg!
-  !/images/referenzen/baumemercier3.jpg!
-  !/images/referenzen/cent.jpg!
-  !/images/referenzen/clarins_7.jpg!
-  !/images/referenzen/clarins1.jpg!
-  !/images/referenzen/piotaz.jpg!
-  !/images/referenzen/serum.jpg!
-  !/images/referenzen/model.jpg!
-  !/images/referenzen/occitane.jpg!
-  !/images/referenzen/ss13.jpg!
-  !/images/referenzen/suvretta.jpg!
-  !/images/referenzen/grandrestaurant.jpg!
-</div>
+<ul data-orbit>
+<li><img src="/images/referenzen/victorinox.jpg"></li>
+<li><img src="/images/referenzen/baumemercier.jpg"></li>
+<li><img src="/images/referenzen/baumemercier2.jpg"></li>
+<li><img src="/images/referenzen/baumemercier3.jpg"></li>
+<li><img src="/images/referenzen/cent.jpg"></li>
+<li><img src="/images/referenzen/clarins_7.jpg"></li>
+<li><img src="/images/referenzen/clarins1.jpg"></li>
+<li><img src="/images/referenzen/piotaz.jpg"></li>
+<li><img src="/images/referenzen/serum.jpg"></li>
+<li><img src="/images/referenzen/model.jpg"></li>
+<li><img src="/images/referenzen/occitane.jpg"></li>
+<li><img src="/images/referenzen/ss13.jpg"></li>
+<li><img src="/images/referenzen/suvretta.jpg"></li>
+<li><img src="/images/referenzen/grandrestaurant.jpg"></li>
+</ul>
 
 
 h1. EBPR provides an extensive range of communication solutions for the luxury segment. 
@@ -31,7 +31,7 @@ Everything on one’s hands and always tailor-made.
 
 </div>
 <div class="referenzen">
-<div>
+<div class="large-3 columns">
 h2. Watches &
 Jewellry
 
@@ -47,7 +47,7 @@ Jewellry
 
 </div>
 
-<div>
+<div class="large-3 columns">
 h2. Fashion & 
 Accessoires
 
@@ -60,7 +60,7 @@ Accessoires
 
 </div>
 
-<div>
+<div class="large-3 columns">
 h2. Cosmetics & 
 Fragrances
 
@@ -82,7 +82,7 @@ Fragrances
 
 </div>
 
-<div>
+<div class="large-3 columns">
 h2. Hotels &
 Fine Food
 
@@ -98,9 +98,9 @@ Fine Food
 
 </div>
 
-<div class="row"></div>
+<div class="large-12 columns"></div>
 
-<div>
+<div class="large-3 columns">
 h2. Automobile & 
 Technology
 
@@ -109,7 +109,7 @@ Technology
 
 </div>
 
-<div>
+<div class="large-3 columns">
 h2. Arts & 
 Culture
 
@@ -119,17 +119,22 @@ Culture
 
 </div>
 
-<div>
+<div class="large-3 columns">
+
 h2. Further clients
 <br />
+
 * Victorinox
 *(old) Bank Julius Bär *
 *(old) Teo Jakob AG
 
 </div>
 
-<div class="old" style="border:none;padding-top: 98px;">
+
+<div class="large-3 columns">
+<div class="old" style="padding-top: 98px;">
 <span class="star">*</span>former clients
+</div>
 
 </div>
 </div>

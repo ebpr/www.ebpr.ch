@@ -1,4 +1,4 @@
-<nav>
+<nav class="large-8 columns">
 <ul>
 {% if page.lang == "de" %} {% for post in site.categories.de %}<li><a {% if post.title ==  page.title %} class="selected" {% endif %} href="{{ post.url }}/"> {{ post.title }}</a></li>{% endfor %}<li><a href="{{ page.switch }}/" title="English" >D > E</a></li>
 {% else if page.lang == "en" %} {% for post in site.categories.en %}<li><a {% if post.title ==  page.title %} class="selected" {% endif %} href="{{ post.url }}/"> {{ post.title }}</a></li>{% endfor %}<li><a href="{{ page.switch }}/" title="Deutsch" >E > D</a></li>

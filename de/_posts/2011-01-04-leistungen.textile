@@ -6,25 +6,25 @@ switch: /services
 priority: 0.8
 ---
 
-<div class="intro">
-<div class="slider">
- !/images/leistungen/pr1.jpg!
- !/images/leistungen/BMROADSHOW-1132.jpg!
- !/images/leistungen/BMROADSHOW-503.jpg!
- !/images/leistungen/shop1.jpg!
- !/images/leistungen/shop2.jpg!
- !/images/leistungen/shop3.jpg!
- !/images/leistungen/baumemercier.jpg!
- !/images/leistungen/s1.jpg!
- !/images/leistungen/events4.jpg!
-</div>
+<div class="intro large-12 columns">
+<ul data-orbit class="slider">
+<li><img src="/images/leistungen/pr1.jpg"></li>
+<li><img src="/images/leistungen/BMROADSHOW-1132.jpg"></li>
+<li><img src="/images/leistungen/BMROADSHOW-503.jpg"></li>
+<li><img src="/images/leistungen/shop1.jpg"></li>
+<li><img src="/images/leistungen/shop2.jpg"></li>
+<li><img src="/images/leistungen/shop3.jpg"></li>
+<li><img src="/images/leistungen/baumemercier.jpg"></li>
+<li><img src="/images/leistungen/s1.jpg"></li>
+<li><img src="/images/leistungen/events4.jpg"></li>
+</ul>
 
 h1. EBPR bietet umfassende Kommunikationslösungen für das Luxussegment.
 Von der Strategie, über die Organisation, bis hin zur Implementierung.
 Alles aus einer Hand, immer massgeschneidert.
 
 </div>
-<section>
+<section class="large-6 columns">
 
 h2. Strategie
 
@@ -34,7 +34,7 @@ EBPR analysiert die Marke und Produkte des Kunden sowie deren Umfeld und konzept
 
 </section>
 
-<section>
+<section class="large-6 columns">
 
 h2. Public Relations 
 
@@ -43,7 +43,7 @@ Public Relations einerseits als Medienarbeit mit der Zielsetzung der Implementie
 EBPR ist verlässlicher und kreativer Partner der Medien. Mit einzigartigen Themen und authentischen Geschichten, sowie individuellen Lösungen zur Realisierung exklusiver Reportagen unterstützen wir die redaktionelle Arbeit. Unsere Kunden profitieren von dieser Partnerschaft als Grundlage für erfolgreiche Public Relations.
 </section>
 
-<section>
+<section class="large-6 columns">
 
 h2. Events
 
@@ -52,7 +52,7 @@ Events ermöglichen eine intensive, direkte Erfahrung des Kunden mit der Marke u
 EBPR berät seine Kunden in der strategischen Entscheidung über die Form des Events (Medien/Gesellschaft, öffentlich/nicht-öffentlich), koordiniert alle organisatorischen Vorgänge und unterstützt in der Akquisition der Gäste.
 </section>
 
-<section>
+<section class="large-6 columns">
 
 h2. Social Lobbying
 

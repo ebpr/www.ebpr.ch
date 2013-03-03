@@ -5,62 +5,72 @@ lang: de
 switch: /agency
 priority: 0.8
 ---
-<div class="intro">
-<div class="slider shadow">
- <img data-caption="#captionOne" src="/images/agentur/elianebachenheimer.jpg" alt="Eliane Bachenheimer">
- <img data-caption="#captionTwo" src="/images/agentur/katja_grauwiler.jpg" alt="Katja Grauwiler">
- <img data-caption="#captionThree" src="/images/agentur/gianluca_testa.jpg" alt="Gian Luca Testa">
- <img data-caption="#captionFour" src="/images/agentur/annigna_caprez.jpg" alt="Annigna Caprez">
-</div>
+<div class="intro large-12 columns shadow">
+
+<ul data-orbit>
+<li data-orbit-slide="bachenheimer"><img src="/images/agentur/elianebachenheimer.jpg" alt="Eliane Bachenheimer">
+</li>
+<li data-orbit-slide="grauwiler"><img src="/images/agentur/katja_grauwiler.jpg" alt="Katja Grauwiler">
+</li>
+<li data-orbit-slide="testa"><img src="/images/agentur/gianluca_testa.jpg" alt="Gian Luca Testa">
+</li>
+<li data-orbit-slide="caprez"><img src="/images/agentur/annigna_caprez.jpg" alt="Annigna Caprez">
+</li>
+</ul>
 
 h1. EBPR berät und unterstützt seit 1989 namhafte Kunden aus den verschiedensten Branchen des Luxussegments und pflegt ein enges Vertrauensverhältnis mit führenden Journalisten, wirtschaftlichen Entscheidungsträgern und gesellschaftlichen Meinungsführern. Die Agentur versteht sich dabei als multidirektionales Bindeglied zwischen Medien, Wirtschaft und Gesellschaft.
 
 </div>
-<div class="team">
 
-<div>
+<div class="large-3 columns">
+<a href="#" data-orbit-link="bachenheimer">
 
 h2. Eliane
 Bachenheimer
 
 Geschäftsführende Gesellschafterin
 Public Relations seit 1989
+</a>
 </div>
 
-<div>
+<div class="large-3 columns">
+<a href="#" data-orbit-link="grauwiler">
 
 h2. Katja
 Grauwiler
 
 Stv. Geschäftsführerin
 Public Relations seit 2000
+</a>
 </div>
-<div>
+<div class="large-3 columns">
+<a href="#" data-orbit-link="testa">
 
 h2. Gian Luca
 Testa
 
 Consultant
 Public Relations seit 2009
+</a>
 </div>
-<div>
+<div class="large-3 columns">
+<a href="#" data-orbit-link="caprez">
 
 h2. Annigna
 Caprez
 
 Junior Consultant
 Public Relations seit 2010
+</a>
 </div>
-<div class="row"></div>
-<div>
+
+<div class="large-12 columns"></div>
+
+<div class="large-3 columns">
 
 h2. Isabel
 Stamm
 
 Administration
 </div>
-</div>
-<span class="orbit-caption" id="captionOne">Eliane Bachenheimer</span>
-<span class="orbit-caption" id="captionTwo">Katja Grauwiler</span>
-<span class="orbit-caption" id="captionThree">Gian Luca Testa</span>
-<span class="orbit-caption" id="captionFour">Annigna Caprez</span>
+

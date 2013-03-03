@@ -5,31 +5,31 @@ lang: de
 switch: /cases
 priority: 0.8
 ---
-<div class="intro">
-<div class="slider">
- !/images/casestudies/bm.jpg!
- !/images/casestudies/bmladiesnight.jpg!
- !/images/casestudies/eb2.jpg!
- !/images/casestudies/roadshow.jpg!
- !/images/casestudies/food.jpg!
- !/images/casestudies/moncler.jpg!
- !/images/casestudies/drinks.jpg!
- !/images/casestudies/freybauknecht.jpg!
- !/images/casestudies/marquardgubser.jpg!
- !/images/casestudies/bottegaveneta.jpg!
-</div>
+<div class="intro large-12 columns">
 
+<ul data-orbit>
+<li><img src="/images/casestudies/bm.jpg"></li>
+<li><img src="/images/casestudies/bmladiesnight.jpg"></li>
+<li><img src="/images/casestudies/eb2.jpg"></li>
+<li><img src="/images/casestudies/roadshow.jpg"></li>
+<li><img src="/images/casestudies/food.jpg"></li>
+<li><img src="/images/casestudies/moncler.jpg"></li>
+<li><img src="/images/casestudies/drinks.jpg"></li>
+<li><img src="/images/casestudies/freybauknecht.jpg"></li>
+<li><img src="/images/casestudies/marquardgubser.jpg"></li>
+<li><img src="/images/casestudies/bottegaveneta.jpg"></li>
+</ul>
 
 h1. EBPR berät und unterstützt seit 1989 namhafte Kunden aus den verschiedensten Branchen des Luxussegments und pflegt ein enges Vertrauensverhältnis mit führenden Journalisten, wirtschaftlichen Entscheidungsträgern und gesellschaftlichen Meinungsführern. Die Agentur versteht sich dabei als multidirektionales Bindeglied zwischen Medien, Wirtschaft und Gesellschaft.
 
 </div>
-<section>
+<section class="large-6 columns">
 h2. Produkt PR
 
 Public Relations als Medienarbeit mit der Zielsetzung der Implementierung eines einzelnen *Produkts* in den relevanten Medien. EBPR steigert durch Produkt PR die *Bekanntheit* eines Produkts bei den jeweiligen Zielgruppen und unterstützt so die Generierung einer *Nachfrage* im Markt. 
 </section>
 
-<section>
+<section class="large-6 columns">
 h2. Corporate PR
 
 Public Relations als Corporate PR mit der Zielsetzung, die *öffentliche Wahrnehmung* eines Unternehmens oder einer Marke entsprechend den Richtlinien des Unternehmens auszurichten. EBPR kommuniziert die zentralen *Werte* seiner Kunden und ermöglicht Medienpartnern exklusive Einblicke. 
@@ -37,31 +37,31 @@ Public Relations als Corporate PR mit der Zielsetzung, die *öffentliche Wahrneh
 
 <div class="clear"></div>
 
-<section>
+<section class="large-6 columns">
 h2. Charity / CSR PR
 
 Gutes tun und darüber reden. Durch effiziente öffentliche Kommunikation kann gemeinnütziges *Engagement* als Vorbild dienen und verstärkt werden. EBPR kommuniziert über *Akteure, Werte und Botschaften*. 
 </section>
 
-<section>
+<section class="large-6 columns">
 h2. Medienevents
 
 Medienevents ermöglichen den *direkten Kontakt* zwischen Unternehmen und Medien. Dieser direkte Austausch ermöglicht die ausführliche Präsentation einer Marke oder eines Produkts einerseits, fachliche Auskünfte und Detailinformationen andererseits. Beispiele sind Produktlancierungen, Roundtables oder Pressekonferenzen. EBPR agiert als *Bindeglied* und Vermittler *zwischen Unternehmen und Medien*. Auf diese Weise können die Interessen beider Seiten berücksichtigt und gewahrt werden. 
 </section>
 
-<section>
+<section class="large-6 columns">
 h2. Kundenevents
 
 Vom Eventkonzept, über die Auswahl der Location und starker Partner, bis hin zur detaillierten Planung und Durchführung des Events - *alles aus einer Hand*. EBPR bringt hochkarätige *Marken* in passendem Rahmen mit den richtigen *Zielgruppen* zusammen. 
 </section>
 
-<section>
+<section class="large-6 columns">
 h2. B2B Events
 
 B2B Events ermöglichen einen wirkungsstarken und präzisen *Markenauftritt* gegenüber bestehenden und potenziellen Geschäftskunden. EBPR verknüpft seine Kunden mit B2B Zielgruppen und kreiert im Rahmen von Events starke *Networkingplattformen*. 
 </section>
 
-<section>
+<section class="large-6 columns">
 h2. Online PR 
 
 Die Zukunft ist online - zumindest fällt den digitalen Medien zunehmend grössere Bedeutung zu. Die *Online Medien* sind dabei nicht nur Träger von sozialer und kommerzieller Kommunikation - auch als Handelsplatz steigt ihre Relevanz.

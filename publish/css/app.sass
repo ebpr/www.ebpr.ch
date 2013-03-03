@@ -1,35 +1,44 @@
 @import compass/typography/text/ellipsis
-// @import compass/layout/grid-background
-@import settings
-@import "compass/css3"
-@import "foundation/settings"
-@import "foundation/functions/all"
-@import "foundation/mixins/clearfix"
-@import "foundation/mixins/css-triangle"
-@import "foundation/mixins/font-size"
-@import "foundation/mixins/respond-to"
-@import "foundation/mixins/semantic-grid"
-@import "modular-scale"
-@import "foundation/common/globals"
-@import "foundation/components/grid"
-@import "foundation/common/typography"
-// @import "foundation/components/modules/topbar";
-// @import "foundation/components/modules/navbar";
-@import "foundation/components/modules/orbit"
-@import "foundation/components/modules/mqueries"
+@import compass/css3
 
 +font-face("Mager", font-files("/fonts/Mager.eot#", eot,"/fonts/Mager.ttf", truetype, "/fonts/Mager.otf", opentype))
 +font-face("Normal", font-files("/fonts/Normal.eot#", eot,"/fonts/Normal.ttf", truetype, "/fonts/Normal.otf", opentype))
 +font-face("Fett", font-files("/fonts/Fett.eot#", eot,"/fonts/Fett.ttf", truetype, "/fonts/Fett.otf", opentype))
 
+.orbit-prev, .orbit-next, .orbit-slide-number
+  display: none!important
+.row
+  max-width: 60.5em!important
+a
+  color: #000
+  &:hover
+    color: #000
+
+li
+  list-style: none
+.orbit-container
+  background: none!important
+.orbit-caption
+  background: #EEE!important
+  text-align: right
+  color: #777!important
+
+.orbit-progress
+  background: #FFF !important
+  opacity: 0.5
 body
   font-family: "Normal"
   font-weight: normal
   +word-break(break-word)
   +hyphens(auto)
-  +background-image(linear-gradient(#fff,#FFF 70%, #DDD))
-  background-size: 100% 100%
 
+.content
+  +background-image(linear-gradient(#fff,#FFF 70%, #EEE))
+  background-size: 100% 100%
+.spacer
+  height: 100px
+  display: block
+  clear: both
 h1, h2
   font-size: 22px
   font-weight: normal
@@ -52,18 +61,17 @@ strong
   font-family: "Fett"
 
 header
-  min-height: 100px
-  padding-top: 20px
-  padding-bottom: 30px
+  padding-top: 50px
+  padding-bottom: 50px
 
 nav
-  +column(3)
   ul
     float: right
   li
     float: left
-    list-style: none
   a
+    +transition-property(color)
+    +transition-duration(0.5s)
     margin: 10px
     font-family: "Fett"
     font-size: 14px
@@ -72,29 +80,21 @@ nav
     color: #CCC
     &:hover
       border-bottom: 2px solid
+  @media ( max-width: 700px )
+    padding-top: 30px
+    ul
+      float: left
 .selected
   color: #373737
   border-bottom: 2px solid
 
 .intro
-  +column(4)
   h1
     padding-top: 10px
-    padding-bottom: 20px
-
-header>a
-  +column(1)
-
-section
-  +column(2)
-
-header, .content, footer
-  +outerRow()
+    padding-bottom: 0px
 
 .referenzen>div, .team>div
-  +column(1)
   li
-    list-style: none
     border-top: 1px solid #CCC
     +ellipsis()
     &:last-child
@@ -108,39 +108,32 @@ header, .content, footer
     top: 4px
 
 footer
-  #footer-wrap
-    +column(4)
-    padding-top: 70px
-    padding-bottom: 50px
-
-  ul
-    @extend .block-grid
-    @extend .four-up
-    @extend .mobile
-
+  background: #EEE
+  padding-top: 70px
+  padding-bottom: 100px
   .line
     border-top: 1px solid
     width: 100%
     display: block
     padding-bottom: 4px
 
-.slider
-  background: #FFF
-  height: 364px
-  img
-    display: none
+.shadow .orbit-container
+  +box-shadow(2px 4px 20px #CCC)
 
-.slider.orbit
-  background: none
-  img
-    display: block
-
-.orbit-caption
-  text-align: right!important
-  padding-right: 10px!important
-.shadow
-  +box-shadow(0px 4px 20px #DDD)
 
 #logo
   img
-    max-width: 250px
+    +transition-property(left)
+    +transition-duration(1s)
+    position: relative
+    top: 2px
+    @media ( min-width: 1200px )
+      left: -107px
+
+ul
+  img
+    display: none
+
+.orbit-slides-container
+  img
+    display: block
