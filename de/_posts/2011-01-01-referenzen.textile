@@ -8,20 +8,20 @@ priority: 0.8
 <div class="intro large-12 columns">
 
 <ul data-orbit>
-<li><img src="/images/referenzen/victorinox.jpg"></li>
-<li><img src="/images/referenzen/baumemercier.jpg"></li>
-<li><img src="/images/referenzen/baumemercier2.jpg"></li>
-<li><img src="/images/referenzen/baumemercier3.jpg"></li>
-<li><img src="/images/referenzen/cent.jpg"></li>
-<li><img src="/images/referenzen/clarins_7.jpg"></li>
-<li><img src="/images/referenzen/clarins1.jpg"></li>
-<li><img src="/images/referenzen/piotaz.jpg"></li>
-<li><img src="/images/referenzen/serum.jpg"></li>
-<li><img src="/images/referenzen/model.jpg"></li>
-<li><img src="/images/referenzen/occitane.jpg"></li>
-<li><img src="/images/referenzen/ss13.jpg"></li>
-<li><img src="/images/referenzen/suvretta.jpg"></li>
-<li><img src="/images/referenzen/grandrestaurant.jpg"></li>
+<li><img src="/images/referenzen/victorinox.jpg" alt="Eliane Bachenheimer Public Relations"></li>
+<li><img src="/images/referenzen/baumemercier.jpg" alt="Eliane Bachenheimer Public Relations"></li>
+<li><img src="/images/referenzen/baumemercier2.jpg" alt="Eliane Bachenheimer Public Relations"></li>
+<li><img src="/images/referenzen/baumemercier3.jpg" alt="Eliane Bachenheimer Public Relations"></li>
+<li><img src="/images/referenzen/cent.jpg" alt="Eliane Bachenheimer Public Relations"></li>
+<li><img src="/images/referenzen/clarins_7.jpg" alt="Eliane Bachenheimer Public Relations"></li>
+<li><img src="/images/referenzen/clarins1.jpg" alt="Eliane Bachenheimer Public Relations"></li>
+<li><img src="/images/referenzen/piotaz.jpg" alt="Eliane Bachenheimer Public Relations"></li>
+<li><img src="/images/referenzen/serum.jpg" alt="Eliane Bachenheimer Public Relations"></li>
+<li><img src="/images/referenzen/model.jpg" alt="Eliane Bachenheimer Public Relations"></li>
+<li><img src="/images/referenzen/occitane.jpg" alt="Eliane Bachenheimer Public Relations"></li>
+<li><img src="/images/referenzen/ss13.jpg" alt="Eliane Bachenheimer Public Relations"></li>
+<li><img src="/images/referenzen/suvretta.jpg" alt="Eliane Bachenheimer Public Relations"></li>
+<li><img src="/images/referenzen/grandrestaurant.jpg" alt="Eliane Bachenheimer Public Relations"></li>
 </ul>
 
 

@@ -7,15 +7,15 @@ priority: 0.5
 
 <div class="intro large-12 columns">
 <ul data-orbit class="slider">
-<li><img src="/images/leistungen/pr1.jpg"></li>
-<li><img src="/images/leistungen/BMROADSHOW-1132.jpg"></li>
-<li><img src="/images/leistungen/BMROADSHOW-503.jpg"></li>
-<li><img src="/images/leistungen/shop1.jpg"></li>
-<li><img src="/images/leistungen/shop2.jpg"></li>
-<li><img src="/images/leistungen/shop3.jpg"></li>
-<li><img src="/images/leistungen/baumemercier.jpg"></li>
-<li><img src="/images/leistungen/s1.jpg"></li>
-<li><img src="/images/leistungen/events4.jpg"></li>
+<li><img src="/images/leistungen/pr1.jpg" alt="Eliane Bachenheimer Public Relations"></li>
+<li><img src="/images/leistungen/BMROADSHOW-1132.jpg" alt="Eliane Bachenheimer Public Relations"></li>
+<li><img src="/images/leistungen/BMROADSHOW-503.jpg" alt="Eliane Bachenheimer Public Relations"></li>
+<li><img src="/images/leistungen/shop1.jpg" alt="Eliane Bachenheimer Public Relations"></li>
+<li><img src="/images/leistungen/shop2.jpg" alt="Eliane Bachenheimer Public Relations"></li>
+<li><img src="/images/leistungen/shop3.jpg" alt="Eliane Bachenheimer Public Relations"></li>
+<li><img src="/images/leistungen/baumemercier.jpg" alt="Eliane Bachenheimer Public Relations"></li>
+<li><img src="/images/leistungen/s1.jpg" alt="Eliane Bachenheimer Public Relations"></li>
+<li><img src="/images/leistungen/events4.jpg" alt="Eliane Bachenheimer Public Relations"></li>
 </ul>
 
 h1. EBPR provides an extensive range of communication solutions for the luxury segment. 

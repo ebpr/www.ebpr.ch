@@ -6,10 +6,10 @@ priority: 0.1
 
 <div class="intro large-12 columns">
 <ul data-orbit class="slider">
-<li><img src="/images/impressum/impressum3.jpg"></li>
-<li><img src="/images/impressum/impressum2.jpg"></li>
-<li><img src="/images/impressum/impressum.jpg"></li>
-<li><img src="/images/impressum/impressum4.jpg"></li>
+<li><img src="/images/impressum/impressum3.jpg" alt="Eliane Bachenheimer Public Relations"></li>
+<li><img src="/images/impressum/impressum2.jpg" alt="Eliane Bachenheimer Public Relations"></li>
+<li><img src="/images/impressum/impressum.jpg" alt="Eliane Bachenheimer Public Relations"></li>
+<li><img src="/images/impressum/impressum4.jpg" alt="Eliane Bachenheimer Public Relations"></li>
 </ul>
 
 
@@ -46,7 +46,7 @@ h2. Links
 Verlinkte Websites unterliegen der Haftung der jeweiligen Betreiber. EBPR hat keinen Einfluss auf die aktuellen und zukünftigen Inhalte der verknüpften Seiten und macht sich die verlinkten Inhalte auch nicht zu eigen.
 </section>
 
-<div class="row"></div>
+<div class="large-12 columns"></div>
 
 <section class="large-6 columns">
 h2. Urheberrecht
