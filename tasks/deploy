@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
 
-ncftpput -R -v -u ebprch ftp.ebpr.ch /www publish/*
+ncftpput -R -v -u leanderherzog verus.metanet.ch /httpdocs _site/*
+#ncftpput -R -v -u ebprch ftp.ebpr.ch /www _site/*

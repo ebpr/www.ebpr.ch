@@ -1,17 +1,12 @@
-# Jekyll Configuration
-
 url: http://www.ebpr.ch
 title: EBPR
 description: EBPR bietet umfassende Kommunikationslösungen für das Luxussegment.
 author: EBPR
-email: info@ebpr.ch
-analytics_id: UA-9138538-1
 permalink: /:title
-
 exclude:
-  build
-  intermediate
-  publish
-  config.rb
-  README.textile
-  tasks
+- node_modules
+- Gruntfile.js
+- package.json
+- *.sass
+- *.map
+- tasks

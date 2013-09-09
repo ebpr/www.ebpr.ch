@@ -25,48 +25,48 @@ From the strategy to the organisation to the implementation.
 Everything on one’s hands and always tailor-made.
 
 </div>
-<section class="large-6 columns">
+<section class="large-6 medium-6 columns">
 h2. Product PR
 
 Public relations as a media work with the objective of implementing a single *product* in the relevant media. EBPR increases product awareness among target groups through Product PR and helps create a *consumer demand*. 
 </section>
 
-<section class="large-6 columns">
+<section class="large-6 medium-6 columns">
 
 h2. Corporate PR
 
 Public relations as Corporate PR with the objective to shape or adjust the *public perception* of a company or brand according to the corporate guidelines. EBPR communicates its client's central *values* and provides exclusive insights for the media.
 </section>
 
-<section class="large-6 columns">
+<section class="large-6 medium-6 columns">
 
 h2. Charity / CSR PR
 
 Doing good and talk about it. Through efficient communication efforts, charitable *engagement* can serve as a role model and develop a stronger impact. EBPR communicates on *actors*, *values*, and *messages*. 
 </section>
 
-<section class="large-6 columns">
+<section class="large-6 medium-6 columns">
 
 h2. Mediaevents
 
 Media events enable a *direct contact* between compaines and the media. This direct exchange is useful for a comprehensive brand or product presentation, as well as qualified and detailed information. Media events include product launches, roundtables and press conferences. EBPR acts as a *link* and intermediator *between companies and the media*. This way, both sides' interests can be considered and served.
 </section>
 
-<section class="large-6 columns">
+<section class="large-6 medium-6 columns">
 
 h2. Client events
 
 Event concept, the right location and strong event partners, the detailed planning and execution of the event - *all comes from one source*. EBPR unites premium *brands* and their *target groups* in exclusive locations. 
 </section>
 
-<section class="large-6 columns">
+<section class="large-6 medium-6 columns">
 
 h2. B2B Events
 
 B2B events provide an impactful and precise *brand appearance* to actual or potential business clients. EBPR links its clients with B2B target groups and creates strong *networking platforms* at its events. 
 </section>
 
-<section class="large-6 columns">
+<section class="large-6 medium-6 columns">
 
 h2. Online PR 
 

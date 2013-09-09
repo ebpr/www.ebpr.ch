@@ -15,8 +15,9 @@ priority: 0.8
 <li><img src="/images/leistungen/shop2.jpg" alt="Eliane Bachenheimer Public Relations"></li>
 <li><img src="/images/leistungen/shop3.jpg" alt="Eliane Bachenheimer Public Relations"></li>
 <li><img src="/images/leistungen/baumemercier.jpg" alt="Eliane Bachenheimer Public Relations"></li>
-<li><img src="/images/leistungen/s1.jpg" alt="Eliane Bachenheimer Public Relations"></li>
-<li><img src="/images/leistungen/events4.jpg" alt="Eliane Bachenheimer Public Relations"></li>
+<li><img src="/images/leistungen/mcm.jpg" alt="Eliane Bachenheimer Public Relations"></li>
+<li><img src="/images/leistungen/foto_0014.jpg" alt="Eliane Bachenheimer Public Relations"></li>
+<li><img src="/images/leistungen/foto_0026.jpg" alt="Eliane Bachenheimer Public Relations"></li>
 </ul>
 
 h1. EBPR bietet umfassende Kommunikationslösungen für das Luxussegment.
@@ -24,7 +25,7 @@ Von der Strategie, über die Organisation, bis hin zur Implementierung.
 Alles aus einer Hand, immer massgeschneidert.
 
 </div>
-<section class="large-6 columns">
+<section class="large-6 medium-6 columns">
 
 h2. Strategie
 
@@ -34,16 +35,16 @@ EBPR analysiert die Marke und Produkte des Kunden sowie deren Umfeld und konzept
 
 </section>
 
-<section class="large-6 columns">
+<section class="large-6 medium-6 columns">
 
-h2. Public Relations 
+h2. Public Relations
 
 Public Relations einerseits als Medienarbeit mit der Zielsetzung der Implementierung eines einzelnen Produkts in den relevanten Medien. Produkt PR steigert die Bekanntheit eines Produkts bei den jeweiligen Zielgruppen und generiert eine Nachfrage im Markt. Public Relations andererseits als Corporate PR mit der Zielsetzung, die öffentliche Wahrnehmung eines Unternehmens oder einer Marke entsprechend den Richtlinien des Unternehmens auszurichten.
 
 EBPR ist verlässlicher und kreativer Partner der Medien. Mit einzigartigen Themen und authentischen Geschichten, sowie individuellen Lösungen zur Realisierung exklusiver Reportagen unterstützen wir die redaktionelle Arbeit. Unsere Kunden profitieren von dieser Partnerschaft als Grundlage für erfolgreiche Public Relations.
 </section>
 
-<section class="large-6 columns">
+<section class="large-6 medium-6 columns">
 
 h2. Events
 
@@ -52,7 +53,7 @@ Events ermöglichen eine intensive, direkte Erfahrung des Kunden mit der Marke u
 EBPR berät seine Kunden in der strategischen Entscheidung über die Form des Events (Medien/Gesellschaft, öffentlich/nicht-öffentlich), koordiniert alle organisatorischen Vorgänge und unterstützt in der Akquisition der Gäste.
 </section>
 
-<section class="large-6 columns">
+<section class="large-6 medium-6 columns">
 
 h2. Social Lobbying
 
