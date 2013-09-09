@@ -1,14 +1,14 @@
-@import compass/typography/text/ellipsis
-@import compass/css3
+@import foundation
+@import bourbon
 
-+font-face("Mager", font-files("/fonts/Mager.eot#", eot,"/fonts/Mager.ttf", truetype, "/fonts/Mager.otf", opentype))
-+font-face("Normal", font-files("/fonts/Normal.eot#", eot,"/fonts/Normal.ttf", truetype, "/fonts/Normal.otf", opentype))
-+font-face("Fett", font-files("/fonts/Fett.eot#", eot,"/fonts/Fett.ttf", truetype, "/fonts/Fett.otf", opentype))
++font-face("Mager", '/fonts/Mager')
++font-face("Normal", '/fonts/Normal')
++font-face("Fett", '/fonts/Fett')
 
 .orbit-prev, .orbit-next, .orbit-slide-number
   display: none!important
 .row
-  max-width: 60.5em!important
+  max-width: 940px
 a
   color: #000
   &:hover
@@ -29,8 +29,17 @@ li
 body
   font-family: "Normal"
   font-weight: normal
-  +word-break(break-word)
-  +hyphens(auto)
+  p
+    font-size: 18px!important
+    -webkit-hyphens: auto
+    -moz-hyphens: auto
+    -ms-hyphens: auto
+    hyphens: auto
+a>p
+  -webkit-hyphens: none
+  -moz-hyphens: none
+  -ms-hyphens: none
+  hyphens: none
 
 .content
   +background-image(linear-gradient(#fff,#FFF 70%, #EEE))
@@ -43,7 +52,7 @@ h1, h2
   font-size: 24px
   font-weight: normal
   @media ( max-width: 600px )
-    font-size: 16px
+    font-size: 18px
 h1
   font-family: "Mager"
   line-height: 1.4
@@ -76,6 +85,7 @@ header
 
 nav
   ul
+    margin: 0px
     float: right
   li
     float: left
@@ -103,17 +113,36 @@ nav
     padding-top: 10px
     padding-bottom: 0px
 
+h2
+  @media ( max-width: 1300px )
+    br
+      display: none
+
 .referenzen>div, .team>div
+  ul
+    padding: 0px
+    margin: 0px
   li
+    -webkit-hyphens: none
+    -moz-hyphens: none
+    -ms-hyphens: none
+    hyphens: none
     border-top: 1px solid #CCC
-    +ellipsis()
+    //+ellipsis()
     &:last-child
       border-bottom: 1px solid
   .old
+    &:after
+      padding-left: 0.3em
+      content: "*"
     color: #BBB
   .star
+    color: #BBB
+    font-size: 0.9em
+    &:before
+      content: "*"
+      font-size: 30px
     padding: 0px 10px
-    font-size: 30px
     position: relative
     top: 4px
 
@@ -128,7 +157,8 @@ footer
     padding-bottom: 4px
 
 .shadow .orbit-container
-  +box-shadow(2px 4px 20px #CCC)
+  box-shadow: 1px 3px 10px #DDD
+  //+box-shadow(2px 4px 20px #CCC)
 
 
 #logo

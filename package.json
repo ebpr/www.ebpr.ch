@@ -1,0 +1,8 @@
+{
+  "author": "Leander Herzog",
+  "name": "site",
+  "version": "0.3.14",
+  "devDependencies": {
+    "grunt": "~0.4.0"
+  }
+}

@@ -14,8 +14,9 @@ priority: 0.5
 <li><img src="/images/leistungen/shop2.jpg" alt="Eliane Bachenheimer Public Relations"></li>
 <li><img src="/images/leistungen/shop3.jpg" alt="Eliane Bachenheimer Public Relations"></li>
 <li><img src="/images/leistungen/baumemercier.jpg" alt="Eliane Bachenheimer Public Relations"></li>
-<li><img src="/images/leistungen/s1.jpg" alt="Eliane Bachenheimer Public Relations"></li>
-<li><img src="/images/leistungen/events4.jpg" alt="Eliane Bachenheimer Public Relations"></li>
+<li><img src="/images/leistungen/mcm.jpg" alt="Eliane Bachenheimer Public Relations"></li>
+<li><img src="/images/leistungen/foto_0014.jpg" alt="Eliane Bachenheimer Public Relations"></li>
+<li><img src="/images/leistungen/foto_0026.jpg" alt="Eliane Bachenheimer Public Relations"></li>
 </ul>
 
 h1. EBPR provides an extensive range of communication solutions for the luxury segment. 
@@ -23,7 +24,7 @@ From the strategy to the organisation to the implementation.
 Everything on one’s hands and always tailor-made.
 
 </div>
-<section class="large-6 columns">
+<section class="large-6 medium-6 columns">
 
 h2. Strategy
 
@@ -32,7 +33,7 @@ Strategic consulting is the start of all communication activities. Its goal is t
 EBPR analyses the client’s brand and products as well as their competition in order to create the ideal strategy for the communication of the target group relevant topics.
 </section>
 
-<section class="large-6 columns">
+<section class="large-6 medium-6 columns">
 
 h2. Public Relations 
 
@@ -41,7 +42,7 @@ Public Relations on the one hand as media work with the objective of implementin
 EBPR is a reliable and creative partner to the media. With unique topics and authentic stories, as well as individual solutions for the execution of exclusive reports, we support the editorial work. Our clients profit from this partnership in form of a basis for successful public relations.
 </section>
 
-<section class="large-6 columns">
+<section class="large-6 medium-6 columns">
 
 h2. Events
 
@@ -50,7 +51,7 @@ Events allow an intensive, direct experience of the client with the brand and it
 EBPR consults its clients in the strategic decision on the form of event (media/society, public/non-public), coordinates all organisational processes and supports the acquisition of guests.
 </section>
 
-<section class="large-6 columns">
+<section class="large-6 medium-6 columns">
 
 h2. Social Lobbying
 

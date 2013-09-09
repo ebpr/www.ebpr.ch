@@ -13,8 +13,6 @@ priority: 0.5
 <li><img src="/images/referenzen/baumemercier2.jpg" alt="Eliane Bachenheimer Public Relations"></li>
 <li><img src="/images/referenzen/baumemercier3.jpg" alt="Eliane Bachenheimer Public Relations"></li>
 <li><img src="/images/referenzen/cent.jpg" alt="Eliane Bachenheimer Public Relations"></li>
-<li><img src="/images/referenzen/clarins_7.jpg" alt="Eliane Bachenheimer Public Relations"></li>
-<li><img src="/images/referenzen/clarins1.jpg" alt="Eliane Bachenheimer Public Relations"></li>
 <li><img src="/images/referenzen/piotaz.jpg" alt="Eliane Bachenheimer Public Relations"></li>
 <li><img src="/images/referenzen/serum.jpg" alt="Eliane Bachenheimer Public Relations"></li>
 <li><img src="/images/referenzen/model.jpg" alt="Eliane Bachenheimer Public Relations"></li>
@@ -31,109 +29,112 @@ Everything on one’s hands and always tailor-made.
 
 </div>
 <div class="referenzen">
-<div class="large-3 columns">
+<div class="large-3 medium-6 columns">
 h2. Watches &
 Jewellry
 
-* Baume & Mercier 
-*(old) Beyer Chronometrie *
-*(old) Bucherer *
-*(old) Ebel *
-*(old) Furrer-Jacot *
-*(old) Gübelin *
-*(old) IWC Schaffhausen *
-*(old) TAG Heuer *
-*(old) Tiffany & Co. *
+* Baume & Mercier
+*(old) Beyer Chronometrie
+*(old) Bucherer
+*(old) Ebel
+*(old) Furrer-Jacot
+*(old) Gübelin
+*(old) IWC Schaffhausen
+*(old) TAG Heuer
+*(old) Tiffany & Co.
 
 </div>
 
-<div class="large-3 columns">
+<div class="large-3 medium-6 columns">
 h2. Fashion & 
 Accessoires
 
 * Ermenegildo Zegna
 * Moncler
+* MCM
 * Bottega Veneta
-*(old) Hermès *
-*(old) J.M. Weston *
-*(old) MBT *
+*(old) Hermès
+*(old) J.M. Weston
+*(old) MBT
 
 </div>
+<div class="large-12 medium-12 columns show-for-medium"></div>
 
-<div class="large-3 columns">
+<div class="large-3 medium-6 columns">
 h2. Cosmetics & 
 Fragrances
 
-* Azzaro Parfums
-* Clarins
-* Clarins Men
 * Jacqueline Piotaz Switzerland
-* Kibio
 * L’Occitane
-* Parfums Hermès
-* Swarovski Parfums
-* Thierry Mugler
-*(old) Dr. Richard Gimmel *
-*(old) Formula Fiorina *
-*(old) Frédéric Fekkai *
-*(old) My Blend *
-*(old) Porsche Design *
-*(old) Victorinox Fragrance *
+*(old) Azzaro Parfums
+*(old) Clarins
+*(old) Clarins Men
+*(old) Dr. Richard Gimmel
+*(old) Formula Fiorina
+*(old) Frédéric Fekkai
+*(old) Kibio
+*(old) My Blend
+*(old) Parfums Hermès
+*(old) Porsche Design
+*(old) Swarovski Parfums
+*(old) Thierry Mugler
+*(old) Victorinox Fragrance
 
 </div>
 
-<div class="large-3 columns">
+<div class="large-3 medium-6 columns">
 h2. Hotels &
 Fine Food
 
-* Lanserhof, Lans
 * Suvretta House, St. Moritz
-*(old) Badrutt’s Palace, St. Moritz *
-*(old) Beschle Chocolatier Suisse *
-*(old) CIVB *
-*(old) Giardino Hotel Group *
-*(old) Grand Hotels Bad Ragaz *
-*(old) Hotel de Crillon, Paris *
-*(old) Park Hyatt, Zürich *
+*(old) Lanserhof, Lans
+*(old) Badrutt’s Palace, St. Moritz
+*(old) Beschle Chocolatier Suisse
+*(old) CIVB
+*(old) Giardino Hotel Group
+*(old) Grand Hotels Bad Ragaz
+*(old) Hotel de Crillon, Paris
+*(old) Park Hyatt, Zürich
 
 </div>
 
 <div class="large-12 columns"></div>
 
-<div class="large-3 columns">
+<div class="large-3 medium-6 columns">
 h2. Automobile & 
 Technology
 
-*(old) Lexus *
-*(old) Peraves *
+*(old) Lexus
+*(old) Peraves
 
 </div>
 
-<div class="large-3 columns">
-h2. Arts & 
-Culture
+<div class="large-3 medium-6 columns">
+h2. Arts &
+ Culture
 
-*(old) H/AND *
-*(old) St. Moritz Art Masters *
-*(old) Tefaf Basel *
+*(old) H/AND
+*(old) St. Moritz Art Masters
+*(old) Tefaf Basel
 
 </div>
 
-<div class="large-3 columns">
+<div class="large-3 medium-6 columns">
 
-h2. Further clients
-<br />
+h2. Further
+clients
 
+* Lalique
 * Victorinox
-*(old) Bank Julius Bär *
+*(old) Bank Julius Bär
 *(old) Teo Jakob AG
 
 </div>
 
 
-<div class="large-3 columns">
-<div class="old" style="padding-top: 98px;">
-<span class="star">*</span>former clients
+<div class="large-3 medium-6 columns">
+<div style="padding-top: 98px;">
+<span class="star">former clients</span>
 </div>
 
 </div>
