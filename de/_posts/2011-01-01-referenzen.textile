@@ -32,7 +32,7 @@ Alles aus einer Hand, immer massgeschneidert.
 <div class="referenzen">
 <div class="large-3 medium-6 columns">
 
-h2. Uhren &
+h2. Uhren &&nbsp;
 Schmuck
 
 * Baume & Mercier
@@ -49,7 +49,7 @@ Schmuck
 
 <div class="large-3 medium-6 columns">
 
-h2. Mode & 
+h2. Mode &&nbsp;
 Accessoires
 
 * Bottega Veneta
@@ -65,7 +65,7 @@ Accessoires
 
 <div class="large-3 medium-6 columns">
 
-h2. Kosmetik &
+h2. Kosmetik &&nbsp;
 Düfte
 
 * Jacqueline Piotaz Switzerland
@@ -88,7 +88,7 @@ Düfte
 
 <div class="large-3 medium-6 columns">
 
-h2. Hotellerie &
+h2. Hotellerie &&nbsp;
 Kulinarik
 
 * Suvretta House, St. Moritz
@@ -105,7 +105,7 @@ Kulinarik
 
 <div class="large-12 medium-12 columns"></div>
 <div class="large-3 medium-6 columns">
-h2. Automobil & 
+h2. Automobil &&nbsp;
 Technik
 
 *(old) Lexus
@@ -115,7 +115,7 @@ Technik
 
 <div class="large-3 medium-6 columns">
 
-h2. Kunst & 
+h2. Kunst &&nbsp;
 Kultur
 
 *(old) H/AND
@@ -126,7 +126,7 @@ Kultur
 
 <div class="large-3 medium-6 columns">
 
-h2. Weitere
+h2. Weitere&nbsp;
 Kunden
 
 * Lalique

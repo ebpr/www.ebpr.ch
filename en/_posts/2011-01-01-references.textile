@@ -30,7 +30,7 @@ Everything on one’s hands and always tailor-made.
 </div>
 <div class="referenzen">
 <div class="large-3 medium-6 columns">
-h2. Watches &
+h2. Watches &&nbsp;
 Jewellry
 
 * Baume & Mercier
@@ -46,7 +46,7 @@ Jewellry
 </div>
 
 <div class="large-3 medium-6 columns">
-h2. Fashion & 
+h2. Fashion &&nbsp;
 Accessoires
 
 * Ermenegildo Zegna
@@ -61,7 +61,7 @@ Accessoires
 <div class="large-12 medium-12 columns show-for-medium"></div>
 
 <div class="large-3 medium-6 columns">
-h2. Cosmetics & 
+h2. Cosmetics &&nbsp;
 Fragrances
 
 * Jacqueline Piotaz Switzerland
@@ -83,7 +83,7 @@ Fragrances
 </div>
 
 <div class="large-3 medium-6 columns">
-h2. Hotels &
+h2. Hotels &&nbsp;
 Fine Food
 
 * Suvretta House, St. Moritz
@@ -101,7 +101,7 @@ Fine Food
 <div class="large-12 columns"></div>
 
 <div class="large-3 medium-6 columns">
-h2. Automobile & 
+h2. Automobile &&nbsp;
 Technology
 
 *(old) Lexus
@@ -110,7 +110,7 @@ Technology
 </div>
 
 <div class="large-3 medium-6 columns">
-h2. Arts &
+h2. Arts &&nbsp;
  Culture
 
 *(old) H/AND
@@ -121,7 +121,7 @@ h2. Arts &
 
 <div class="large-3 medium-6 columns">
 
-h2. Further
+h2. Further&nbsp;
 clients
 
 * Lalique
