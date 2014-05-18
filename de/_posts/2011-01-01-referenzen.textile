@@ -52,13 +52,13 @@ Schmuck
 h2. Mode &&nbsp;
 Accessoires
 
-* Bottega Veneta
 * Ermenegildo Zegna
-* MCM
-* Moncler
+*(old) Bottega Veneta
 *(old) Hermès
 *(old) J.M. Weston
 *(old) MBT
+*(old) MCM
+*(old) Moncler
 
 </div>
 <div class="large-12 medium-12 columns show-for-medium"></div>
@@ -108,6 +108,7 @@ Kulinarik
 h2. Automobil &&nbsp;
 Technik
 
+* Proceq
 *(old) Lexus
 *(old) Peraves
 

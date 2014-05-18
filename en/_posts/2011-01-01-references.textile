@@ -50,12 +50,12 @@ h2. Fashion &&nbsp;
 Accessoires
 
 * Ermenegildo Zegna
-* Moncler
-* MCM
-* Bottega Veneta
+*(old) Bottega Veneta
 *(old) Hermès
 *(old) J.M. Weston
 *(old) MBT
+*(old) MCM
+*(old) Moncler
 
 </div>
 <div class="large-12 medium-12 columns show-for-medium"></div>
@@ -104,6 +104,7 @@ Fine Food
 h2. Automobile &&nbsp;
 Technology
 
+* Proceq
 *(old) Lexus
 *(old) Peraves
 

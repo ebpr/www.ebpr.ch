@@ -7,6 +7,6 @@ exclude:
 - node_modules
 - Gruntfile.js
 - package.json
-- *.sass
-- *.map
+- '*.sass'
+- '*.map'
 - tasks
