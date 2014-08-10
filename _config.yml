@@ -4,9 +4,14 @@ description: EBPR bietet umfassende Kommunikationslösungen für das Luxussegmen
 author: EBPR
 permalink: /:title
 exclude:
-- node_modules
-- Gruntfile.js
-- package.json
-- '*.sass'
-- '*.map'
 - tasks
+sass:
+    sass_dir: _sass
+    style: :compressed
+defaults:
+  -
+    scope:
+      path: ""
+      type: "post"
+    values:
+      layout: "post"

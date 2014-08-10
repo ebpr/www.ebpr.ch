@@ -1,24 +1,22 @@
 ---
-layout: post
 title: Casestudies
 permalink: /cases
 switch: /casestudies
-priority: 0.5
 ---
 <div class="intro large-12 columns">
 
-<ul data-orbit>
-<li><img src="/images/casestudies/bm.jpg" alt="Eliane Bachenheimer Public Relations"></li>
-<li><img src="/images/casestudies/bmladiesnight.jpg" alt="Eliane Bachenheimer Public Relations"></li>
-<li><img src="/images/casestudies/eb2.jpg" alt="Eliane Bachenheimer Public Relations"></li>
-<li><img src="/images/casestudies/roadshow.jpg" alt="Eliane Bachenheimer Public Relations"></li>
-<li><img src="/images/casestudies/food.jpg" alt="Eliane Bachenheimer Public Relations"></li>
-<li><img src="/images/casestudies/moncler.jpg" alt="Eliane Bachenheimer Public Relations"></li>
-<li><img src="/images/casestudies/drinks.jpg" alt="Eliane Bachenheimer Public Relations"></li>
-<li><img src="/images/casestudies/freybauknecht.jpg" alt="Eliane Bachenheimer Public Relations"></li>
-<li><img src="/images/casestudies/marquardgubser.jpg" alt="Eliane Bachenheimer Public Relations"></li>
-<li><img src="/images/casestudies/bottegaveneta.jpg" alt="Eliane Bachenheimer Public Relations"></li>
-</ul>
+<div class="slides">
+<div><img src="/images/casestudies/bm.jpg" alt="Eliane Bachenheimer Public Relations"></div>
+<div><img src="/images/casestudies/bmladiesnight.jpg" alt="Eliane Bachenheimer Public Relations"></div>
+<div><img src="/images/casestudies/eb2.jpg" alt="Eliane Bachenheimer Public Relations"></div>
+<div><img src="/images/casestudies/roadshow.jpg" alt="Eliane Bachenheimer Public Relations"></div>
+<div><img src="/images/casestudies/food.jpg" alt="Eliane Bachenheimer Public Relations"></div>
+<div><img src="/images/casestudies/moncler.jpg" alt="Eliane Bachenheimer Public Relations"></div>
+<div><img src="/images/casestudies/drinks.jpg" alt="Eliane Bachenheimer Public Relations"></div>
+<div><img src="/images/casestudies/freybauknecht.jpg" alt="Eliane Bachenheimer Public Relations"></div>
+<div><img src="/images/casestudies/marquardgubser.jpg" alt="Eliane Bachenheimer Public Relations"></div>
+<div><img src="/images/casestudies/bottegaveneta.jpg" alt="Eliane Bachenheimer Public Relations"></div>
+</div>
 
 h1. EBPR provides an extensive range of communication solutions for the luxury segment.
 From the strategy to the organisation to the implementation. 

@@ -8,7 +8,7 @@
   <meta name="description" content="EBPR bietet umfassende Kommunikationslösungen für das Luxussegment.">
   <meta name="author" content="Eliane Bachenheimer Public Relations">
   <meta name="google-site-verification" content="L83dfs98IxZkkQcMlk3If3SkMtiHmSKnU5SH8_F_KcY" />
-  <link rel="stylesheet" href="/css/app.css">
+  <link rel="stylesheet" href="/css/styles.css">
   <script src="/js/vendor/modernizr.js"></script>
 </head>
 <body>
@@ -23,10 +23,28 @@
   </div>
   {% include footer.html %}
 <script src="/js/vendor/jquery.js"></script>
+<script src="/js/slick.min.js"></script>
 <script src="/js/foundation.min.js"></script>
 <script>
-  $(document).foundation('orbit',{bullets: false,timer_speed: 3000,animation_speed: 300});
-  if(Modernizr.svg){}else{ $('#logo').html('<img src="/css/logo.png" alt="EBPR" />'); }
+$(document).ready(function(){
+  var slick = $('.slides').slick({
+    autoplay: true,
+    autoplaySpeed: 2000,
+    dots: false,
+    infinite: true,
+    speed: 500,
+    fade: true,
+    cssEase: 'linear'
+  }).on("click",function(){
+    $(this).slickNext();
+  });
+  if($("#bachenheimer").length === 1){
+    $("#bachenheimer").on("click",function(event){ event.preventDefault(); slick.slickGoTo(0); });
+    $("#apafi").on("click",function(event){ event.preventDefault(); slick.slickGoTo(1); });
+    $("#bulatovic").on("click",function(event){ event.preventDefault(); slick.slickGoTo(2); });
+  }
+});
+if(Modernizr.svg){}else{ $('#logo').html('<img src="/css/logo.png" alt="EBPR" />'); }
 </script>
 </body>
 </html>

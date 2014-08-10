@@ -1,24 +1,22 @@
 ---
-layout: post
 lang: de
 title: Leistungen
 switch: /services
-priority: 0.8
 ---
 
 <div class="intro large-12 columns">
-<ul data-orbit class="slider">
-<li><img src="/images/leistungen/pr1.jpg" alt="Eliane Bachenheimer Public Relations"></li>
-<li><img src="/images/leistungen/BMROADSHOW-1132.jpg" alt="Eliane Bachenheimer Public Relations"></li>
-<li><img src="/images/leistungen/BMROADSHOW-503.jpg" alt="Eliane Bachenheimer Public Relations"></li>
-<li><img src="/images/leistungen/shop1.jpg" alt="Eliane Bachenheimer Public Relations"></li>
-<li><img src="/images/leistungen/shop2.jpg" alt="Eliane Bachenheimer Public Relations"></li>
-<li><img src="/images/leistungen/shop3.jpg" alt="Eliane Bachenheimer Public Relations"></li>
-<li><img src="/images/leistungen/baumemercier.jpg" alt="Eliane Bachenheimer Public Relations"></li>
-<li><img src="/images/leistungen/mcm.jpg" alt="Eliane Bachenheimer Public Relations"></li>
-<li><img src="/images/leistungen/foto_0014.jpg" alt="Eliane Bachenheimer Public Relations"></li>
-<li><img src="/images/leistungen/foto_0026.jpg" alt="Eliane Bachenheimer Public Relations"></li>
-</ul>
+<div class="slides">
+<div><img src="/images/leistungen/pr1.jpg" alt="Eliane Bachenheimer Public Relations"></div>
+<div><img src="/images/leistungen/BMROADSHOW-1132.jpg" alt="Eliane Bachenheimer Public Relations"></div>
+<div><img src="/images/leistungen/BMROADSHOW-503.jpg" alt="Eliane Bachenheimer Public Relations"></div>
+<div><img src="/images/leistungen/shop1.jpg" alt="Eliane Bachenheimer Public Relations"></div>
+<div><img src="/images/leistungen/shop2.jpg" alt="Eliane Bachenheimer Public Relations"></div>
+<div><img src="/images/leistungen/shop3.jpg" alt="Eliane Bachenheimer Public Relations"></div>
+<div><img src="/images/leistungen/baumemercier.jpg" alt="Eliane Bachenheimer Public Relations"></div>
+<div><img src="/images/leistungen/mcm.jpg" alt="Eliane Bachenheimer Public Relations"></div>
+<div><img src="/images/leistungen/foto_0014.jpg" alt="Eliane Bachenheimer Public Relations"></div>
+<div><img src="/images/leistungen/foto_0026.jpg" alt="Eliane Bachenheimer Public Relations"></div>
+</div>
 
 h1. EBPR bietet umfassende Kommunikationslösungen für das Luxussegment.
 Von der Strategie, über die Organisation, bis hin zur Implementierung.

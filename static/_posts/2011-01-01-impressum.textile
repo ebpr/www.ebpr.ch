@@ -1,16 +1,14 @@
 ---
-layout: post
 title: Impressum
-priority: 0.1
 ---
 
 <div class="intro large-12 columns">
-<ul data-orbit class="slider">
-<li><img src="/images/impressum/impressum3.jpg" alt="Eliane Bachenheimer Public Relations"></li>
-<li><img src="/images/impressum/impressum2.jpg" alt="Eliane Bachenheimer Public Relations"></li>
-<li><img src="/images/impressum/impressum.jpg" alt="Eliane Bachenheimer Public Relations"></li>
-<li><img src="/images/impressum/impressum4.jpg" alt="Eliane Bachenheimer Public Relations"></li>
-</ul>
+<div class="slides">
+<div><img src="/images/impressum/impressum3.jpg" alt="Eliane Bachenheimer Public Relations"></div>
+<div><img src="/images/impressum/impressum2.jpg" alt="Eliane Bachenheimer Public Relations"></div>
+<div><img src="/images/impressum/impressum.jpg" alt="Eliane Bachenheimer Public Relations"></div>
+<div><img src="/images/impressum/impressum4.jpg" alt="Eliane Bachenheimer Public Relations"></div>
+</div>
 
 
 h1. Impressum
