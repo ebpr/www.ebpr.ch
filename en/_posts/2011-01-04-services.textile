@@ -9,12 +9,15 @@ switch: /leistungen
 <div><img src="/images/leistungen/BMROADSHOW-1132.jpg" alt="Eliane Bachenheimer Public Relations"></div>
 <div><img src="/images/leistungen/BMROADSHOW-503.jpg" alt="Eliane Bachenheimer Public Relations"></div>
 <div><img src="/images/leistungen/shop1.jpg" alt="Eliane Bachenheimer Public Relations"></div>
-<div><img src="/images/leistungen/shop2.jpg" alt="Eliane Bachenheimer Public Relations"></div>
 <div><img src="/images/leistungen/shop3.jpg" alt="Eliane Bachenheimer Public Relations"></div>
-<div><img src="/images/leistungen/baumemercier.jpg" alt="Eliane Bachenheimer Public Relations"></div>
 <div><img src="/images/leistungen/mcm.jpg" alt="Eliane Bachenheimer Public Relations"></div>
 <div><img src="/images/leistungen/foto_0014.jpg" alt="Eliane Bachenheimer Public Relations"></div>
 <div><img src="/images/leistungen/foto_0026.jpg" alt="Eliane Bachenheimer Public Relations"></div>
+<div><img src="/images/leistungen/Viktorinox_ZH_1332.jpg" alt="Eliane Bachenheimer Public Relations"></div>
+<div><img src="/images/leistungen/Viktorinox_ZH_1522.jpg" alt="Eliane Bachenheimer Public Relations"></div>
+<div><img src="/images/leistungen/Viktorinox_ZH_2578.jpg" alt="Eliane Bachenheimer Public Relations"></div>
+<div><img src="/images/leistungen/CK2R6128.jpg" alt="Eliane Bachenheimer Public Relations"></div>
+<div><img src="/images/leistungen/CK2R6414.jpg" alt="Eliane Bachenheimer Public Relations"></div>
 </div>
 
 h1. EBPR provides an extensive range of communication solutions for the luxury segment. 
