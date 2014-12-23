@@ -5,10 +5,10 @@ switch: /leistungen
 
 <div class="intro large-12 columns">
 <div class="slides">
-<div><img src="/images/leistungen/CK2R6128.jpg" alt="Eliane Bachenheimer Public Relations"></div>
 <div><img src="/images/leistungen/CK2R6414.jpg" alt="Eliane Bachenheimer Public Relations"></div>
+<div><img src="/images/leistungen/CK2R6128.jpg" alt="Eliane Bachenheimer Public Relations"></div>
+<div><img src="/images/leistungen/elsener.jpg" alt="Eliane Bachenheimer Public Relations"></div>
 <div><img src="/images/leistungen/Viktorinox_ZH_1332.jpg" alt="Eliane Bachenheimer Public Relations"></div>
-<div><img src="/images/leistungen/Viktorinox_ZH_1522.jpg" alt="Eliane Bachenheimer Public Relations"></div>
 <div><img src="/images/leistungen/Viktorinox_ZH_2578.jpg" alt="Eliane Bachenheimer Public Relations"></div>
 <div><img src="/images/leistungen/pr1.jpg" alt="Eliane Bachenheimer Public Relations"></div>
 <div><img src="/images/leistungen/BMROADSHOW-1132.jpg" alt="Eliane Bachenheimer Public Relations"></div>
